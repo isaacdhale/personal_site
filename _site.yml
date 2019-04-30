@@ -1,0 +1,9 @@
+name: "isaacs-website"
+output_dir: "."
+navbar:
+  title: "Isaac's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
