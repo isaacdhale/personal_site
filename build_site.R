@@ -14,7 +14,8 @@ rmarkdown::render_site()
 # cd "C:\Users\Isaac\Google Drive\Website\Attempt_2\personal_site"
 
 # Add all files to staging area
-#git add -A #the -A flag tells it git you want everything
+#git add -A 
+#the -A flag tells it git you want everything
 
 
 ## BUild website locally
