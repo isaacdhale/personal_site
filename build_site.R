@@ -23,3 +23,7 @@ rmarkdown::render_site()
 
 #Push website to github
 #git push origin master
+
+#Create a blank file
+# touch X.rmd 
+# touch Y.css
