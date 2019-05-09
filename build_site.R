@@ -19,7 +19,7 @@ rmarkdown::render_site()
 
 
 ## BUild website locally
-#git commit -m "NOTES"
+#git commit -m "update"
 
 #Push website to github
 #git push origin master

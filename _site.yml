@@ -5,10 +5,21 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "CV"
+      href: cv.html    
     - text: "Research"   
-      href: research.html 
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
     - text: "About Me"
       href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:idhale@ucdavis.edu
+    - icon: fa-github fa-lg
+      href: https://github.com/isaacdhale
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/isaachale
 output:
   html_document:
     theme: flatly

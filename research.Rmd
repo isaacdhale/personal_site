@@ -2,6 +2,7 @@
 title: "Published & Working Research Manuscripts"
 ---
 
+Here are some of my projects:
 
 ## [Strategic Voting](http://www.google.com)
 
