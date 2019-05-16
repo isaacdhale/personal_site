@@ -3,6 +3,13 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+.headshot {
+    display: block;
+    width: 100;
+    overflow: hidden;
+}
+
 body {
 font-size: medium;
 }
