@@ -4,6 +4,7 @@ setwd("C:\\Users\\Isaac\\Google Drive\\Website\\Attempt_2\\personal_site")
 
 #install.packages("rmarkdown", type = "source")
 library(rmarkdown)
+library(knitr)
 
 rmarkdown::render_site()
 
