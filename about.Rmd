@@ -6,6 +6,8 @@ title: "About Me"
 - __Ocupation:__ doctoral candidate in Political Science at the University of California, Davis.
 - __Research Interests:__ electoral systems, legislative representation, political behaviour and public opinion.
 
+![headshot](headshot.jpg)
+  
 Contact Information:<br>
 Department of Political Science <br>
 University of California, Davis <br>
@@ -14,11 +16,9 @@ Davis, CA 95616 <br>
 <a href="mailto:idhale@ucdavis.edu">idhale@ucdavis.edu </a><br>
 
 <a href="https://twitter.com/IsaacHale?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @IsaacHale</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<br>
-A photo of me:
-
-![](headshot.jpg)
-
 
 
 Copyright © 2017 by Isaac Hale. Made with RStudio
+
+<br>
+  

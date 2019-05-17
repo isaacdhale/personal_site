@@ -4,11 +4,14 @@ img {
   margin: 0 auto;
 }
 
-.headshot {
-    display: block;
-    width: 100;
-    overflow: hidden;
+img[alt="headshot"] {
+  max-width: 250px;
+   width:25%; 
+   border:10px solid;
+   margin-right: 20px;
+   float: left;
 }
+
 
 body {
 font-size: medium;
