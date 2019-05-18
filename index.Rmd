@@ -1,6 +1,5 @@
----
-title: "Welcome!"
----
+<br>
+
 <img src="headshot.jpg" alt="headshot">
 
 I am a PhD candidate in the <a href="https://ps.ucdavis.edu">Department of Political Science</a> at the <a href="http://ucdavis.edu/">University of California, Davis</a>. 
