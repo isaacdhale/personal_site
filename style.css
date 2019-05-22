@@ -12,6 +12,10 @@ img[alt="headshot"] {
    float: left;
 }
 
+img[alt="banner"] {
+  width: 1500px;
+}
+
 
 body {
 font-size: medium;
