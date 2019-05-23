@@ -20,10 +20,11 @@ rmarkdown::render_site()
 
 
 ## BUild website locally
-#git commit -m "update"
+# git commit -m "update"
 
 #Push website to github
 #git push origin master
+# git push --force
 
 #Create a blank file
 # touch X.rmd 

@@ -8,6 +8,7 @@
 
   gtag('config', 'UA-140699540-1');
 </script>
+<title> Isaac Hale's Teaching </title>
 </head>
 
 <br>
