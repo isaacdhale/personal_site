@@ -1,4 +1,9 @@
+---
+title: "Isaac Hale's CV"
+---
+
 <head>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140699540-1"></script>
 <script>
@@ -8,12 +13,10 @@
 
   gtag('config', 'UA-140699540-1');
 </script>
-<title> Isaac Hale's CV </title>
 </head>
 
----
-title: "Curriculum Vitae"
----
+
+<font size="+3"><b>Curriculum Vitae</b></font>
 
 <font size="+1"><b><i>May 1, 2019</b></i></font>
 

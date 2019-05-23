@@ -25,3 +25,8 @@ a {
   color: royalblue;
   font-weight: bold;
 }
+
+h1.title {
+  font-size: 0px;
+  color: white;
+}

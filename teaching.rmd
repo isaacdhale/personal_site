@@ -1,4 +1,9 @@
+---
+title: "Isaac Hale's Teaching"
+---
+
 <head>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140699540-1"></script>
 <script>
@@ -8,10 +13,7 @@
 
   gtag('config', 'UA-140699540-1');
 </script>
-<title> Isaac Hale's Teaching </title>
 </head>
-
-<br>
 
 <img src="banner_UC_Davis.jpg" alt="banner">
 

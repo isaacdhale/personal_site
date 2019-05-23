@@ -1,4 +1,10 @@
+---
+title: "Isaac Hale's Research"
+---
+
 <head>
+<title>Isaac Hale's Research</title>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140699540-1"></script>
 <script>
@@ -8,12 +14,11 @@
 
   gtag('config', 'UA-140699540-1');
 </script>
-<title> Isaac Hale's Research </title>
 </head>
 
----
-title: "Published & Working Research Manuscripts"
----
+
+<font size="+3"><b>Published & Working Research Manuscripts</b></font>
+
 <i><p style="text-align:center">Predicting Strategic Vote With Perceptions of Candidate Viability</p></i>
 
 ![](parlaffairs.png)
