@@ -60,7 +60,7 @@ title: "Isaac Hale's Research"
 
 <i><p style="text-align:center">\(\star\)<a href="https://escholarship.org/uc/item/5zt6b4r1">Manuscript Published in the California Journal of Politics and Policy (2016)</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p></i>
 
-<i>Abstract</i>: This paper analyzes some of the general election consequences of the top-two primary system in California elections beginning in 2012. In particular we focus on general election contests between candidates of the same party that were not possible under the previous primary system, but have occurred with some regularity with the top-two.We find that same party elections are characterized by greater competitiveness, lower turnout, and less - but still substantial - polarized voting.
+<i>Abstract</i>: This paper analyzes some of the general election consequences of the top-two primary system in California elections beginning in 2012. In particular we focus on general election contests between candidates of the same party that were not possible under the previous primary system, but have occurred with some regularity with the top-two.We find that same party elections are characterized by greater competitiveness, lower turnout, and less, but still substantial, polarized voting.
 
 
 <br>
