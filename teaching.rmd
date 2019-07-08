@@ -17,7 +17,7 @@ title: "Isaac Hale's Teaching"
 
 <img src="banner_UC_Davis.jpg" alt="banner">
 <br>
-Throughout my years as a graduate and undergraduate student, I have benefitted from teachers whose pedagogical ingenuity and intellectual curiosity have pushed me to excel. As a graduate instructor and teaching assistant, I have sought to similarly inspire undergraduate students to realize their full academic potential. At UC Davis, I have had the privilege to teach five undergraduate courses in Comparative in American politcs as the instructor of record, and to serve as a teaching assistant for ten additional classes. In 2019, I was honored to receive the Marvin Zetterbaum Award for Excellence in Graduate Student Instruction from the UC Davis Department of Political Science.
+Throughout my years as a graduate and undergraduate student, I have benefitted from teachers whose pedagogical ingenuity and intellectual curiosity have pushed me to excel. As a graduate instructor and teaching assistant, I have sought to similarly inspire undergraduate students to realize their full academic potential. At UC Davis, I have had the privilege to teach five undergraduate courses in Comparative in American politics as the instructor of record, and to serve as a teaching assistant for ten additional classes. In 2019, I was honored to receive the Marvin Zetterbaum Award for Excellence in Graduate Student Instruction from the UC Davis Department of Political Science.
 
 Below, you will find various links containing syllabi, course evaluations, sample classroom presentations, and sample code for courses I have instructed.<br><br>
 
@@ -118,6 +118,7 @@ Below, you will find various links containing syllabi, course evaluations, sampl
   <li>French Politics (Spring 2019)</li>
   <ul>
   <li><a href="syllabi/TA_pol_147C_2019.pdf">Syllabus (James Adams)</a></li>
+  <li><a href="evals/Hale Teaching Eval - POL 147C (Spring 2019).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/EU Election Lecture (Hale).pdf">Guest Lecture Presentation</a></li>
 
   <br style="line-height:0px;" />
