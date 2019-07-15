@@ -120,7 +120,6 @@ Below, you will find various links containing syllabi, course evaluations, sampl
   <li><a href="syllabi/TA_pol_147C_2019.pdf">Syllabus (James Adams)</a></li>
   <li><a href="evals/Hale Teaching Eval - POL 147C (Spring 2019).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/EU Election Lecture (Hale).pdf">Guest Lecture Presentation</a></li>
-
   <br style="line-height:0px;" />
   </ul>
 
@@ -149,7 +148,7 @@ Below, you will find various links containing syllabi, course evaluations, sampl
   <li>British Politics (Fall 2015)</li>
   <ul>
   <li><a href="syllabi/TA_pol_147B_2015.pdf">Syllabus (James Adams)</a></li>
-  <li><a href="evals/Hale Teaching Eval - POL 150 (Spring 2016).pdf">University Course Evaluations</li></a>
+  <li><a href="evals/Hale Teaching Eval - POL 147B (Fall 2015).pdf">University Course Evaluations</li></a>
   <br style="line-height:0px;" />
   </ul>
   
