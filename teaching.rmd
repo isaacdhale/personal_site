@@ -25,89 +25,89 @@ Below, you will find various links containing syllabi, course evaluations, sampl
 # Associate Instructor of Record
 
 <ol>
-<li>The Legislative Process (Winter 2019) </li>
+<li>The Legislative Process (Winter 2019) 
   <ul>
-  <li><a href="syllabi/pol_105_2019.pdf">Syllabus </li></a>
-  <li><a href="evals/Hale Teaching Eval - POL 105 (Winter 2019).pdf">University Course Evaluations</li></a>
-  <li><a href="presentations/Congress & The Courts.pdf">Sample Classroom Presentation</li></a>
+  <li><a href="syllabi/pol_105_2019.pdf">Syllabus</a></li>
+  <li><a href="evals/Hale Teaching Eval - POL 105 (Winter 2019).pdf">University Course Evaluations</a></li>
+  <li><a href="presentations/Congress & The Courts.pdf">Sample Classroom Presentation</a></li>
   <br style="line-height:0px;" />
-  </ul>
+  </ul></li>
  
-  <li>Introduction to Comparative Politics (Summer 2018)</li>
+  <li>Introduction to Comparative Politics (Summer 2018)
   <ul>
   <li><a href="syllabi/pol_002_2018.pdf">Syllabus</a></li>
   <li><a href="evals/Hale Teaching Eval - POL 002 (Summer 2018).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/Country Cases - Canada + UK + NZ.pdf">Sample Classroom Presentation</li></a>
   <br style="line-height:0px;" />
-  </ul>
+  </ul></li>
   
-  <li>Introduction to American Politics (Winter 2018)</li>
+  <li>Introduction to American Politics (Winter 2018)
   <ul>
   <li><a href="syllabi/pol_001_2018.pdf">Syllabus</a></li>
   <li><a href="evals/Hale Teaching Eval - POL 001 (Winter 2018).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/Party Polarization.pdf">Sample Classroom Presentation</li></a>
   <br style="line-height:0px;" />
-  </ul>
+  </ul></li>
   
-  <li>Introduction to American Politics (Fall 2017)</li>
+  <li>Introduction to American Politics (Fall 2017)
   <ul>
   <li><a href="syllabi/pol_001_2017.pdf">Syllabus</a></li>
   <li><a href="evals/Hale Teaching Eval - POL 001 (Fall 2017).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/Elections + Voting Choice.pdf">Sample Classroom Presentation</li></a>
   <br style="line-height:0px;" />
-  </ul>
+  </ul></li>
   
-  <li>Introduction to Comparative Politics (Summer 2017)</li>
+  <li>Introduction to Comparative Politics (Summer 2017)
   <ul>
   <li><a href="syllabi/pol_002_2017.pdf">Syllabus</a></li>
   <li><a href="evals/Hale Teaching Eval - POL 002 (Summer 2017).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/Electoral Systems I.pdf">Sample Classroom Presentation</li></a>
   <br style="line-height:0px;" />
-  </ul>
+  </ul></li>
   
 </ol>
 
 # Discussion Section Teaching Assistant
  <ol>
-  <li>The Scientific Study of Politics (Fall 2018)</li>
+  <li>The Scientific Study of Politics (Fall 2018)
   <ul>
   <li><a href="syllabi/TA_pol_051_2018.pdf">Syllabus (Bradford Jones)</a></li>
   <li><a href="evals/Hale Teaching Eval - POL 051 (Fall 2018).pdf">University Course Evaluations</li></a>
   <li><a href="code/Isaac Code - Week 4 Section.R">Sample Section R Code</a></li>
   <br style="line-height:0px;" />
-  </ul>
+  </ul></li>
 
-  <li>Introduction to American Politics (Spring 2018)</li>
+  <li>Introduction to American Politics (Spring 2018)
   <ul>
   <li><a href="syllabi/TA_pol_001_2018.pdf">Syllabus (Benjamin Highton)</a></li>
   <li><a href="evals/Hale Teaching Eval - POL 001 (Spring 2018).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/Final Exam Review.pdf">Sample Section Presentation</a></li>
   <br style="line-height:0px;" />
-  </ul>
+  </ul></li>
   
-  <li>Problems in American Politics (Fall 2016)</li>
+  <li>Problems in American Politics (Fall 2016)
   <ul>
   <li><a href="syllabi/TA_pol_005_2016.pdf">Syllabus (Amber Boydstun)</a></li>
   <li><a href="evals/Hale Teaching Eval - POL 005 (Fall 2016).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/POL 005 2016 Post-Election Slides.pdf">Sample Section Presentation</a></li>
   <br style="line-height:0px;" />
-  </ul>
+  </ul></li>
   
-  <li>The American Presidency (Summer 2016)</li>
+  <li>The American Presidency (Summer 2016)
   <ul>
   <li><a href="syllabi/TA_pol_106_2016.pdf">Syllabus (Amber Boydstun)</a></li>
   <li><a href="evals/Hale Teaching Eval - POL 106 (Summer 2016).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/POL106 Journal Workshop 02 Slides.pdf">Sample Section Presentation</a></li>
   <br style="line-height:0px;" />
-  </ul>
+  </ul></li>
 
-  <li>The Scientific Study of Politics (Winter 2016)</li>
+  <li>The Scientific Study of Politics (Winter 2016)
   <ul>
   <li><a href="syllabi/TA_pol_051_2016.pdf">Syllabus (Bradford Jones)</a></li>
   <li><a href="evals/Hale Teaching Eval - POL 051 (Winter 2016).pdf">University Course Evaluations</li></a>
   <li><a href="code/Isaac Code - Week 9 Section.R">Sample Section R Code</a></li>
   <br style="line-height:0px;" />
-  </ul>
+  </ul></li>
  
   
 </ol>
@@ -115,41 +115,41 @@ Below, you will find various links containing syllabi, course evaluations, sampl
 
 # Teaching Assistant
  <ol>
-  <li>French Politics (Spring 2019)</li>
+  <li>French Politics (Spring 2019)
   <ul>
   <li><a href="syllabi/TA_pol_147C_2019.pdf">Syllabus (James Adams)</a></li>
   <li><a href="evals/Hale Teaching Eval - POL 147C (Spring 2019).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/EU Election Lecture (Hale).pdf">Guest Lecture Presentation</a></li>
   <br style="line-height:0px;" />
-  </ul>
+  </ul></li>
 
-  <li>Russian Politics (Spring 2017)</li>
+  <li>Russian Politics (Spring 2017)
   <ul>
   <li><a href="syllabi/TA_pol_144B_2017.pdf">Syllabus (Josephine Andrews)</a></li>
   <li><a href="evals/Hale Teaching Eval - POL 144B (Spring 2017).pdf">University Course Evaluations</li></a>
   <br style="line-height:0px;" />
-  </ul>
+  </ul></li>
   
-  <li>Electoral Systems (Winter 2017)</li>
+  <li>Electoral Systems (Winter 2017)
   <ul>
   <li><a href="syllabi/TA_pol_140A_2017.pdf">Syllabus (Matthew Shugart)</a></li>
   <li><a href="evals/Hale Teaching Eval - POL 140A (Winter 2017).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/Electoral Systems Guest Lecture.pdf">Guest Lecture Presentation</a></li>
   <br style="line-height:0px;" />
-  </ul>
+  </ul></li>
   
-  <li>Judicial Politics (Spring 2016)</li>
+  <li>Judicial Politics (Spring 2016)
   <ul>
   <li><a href="syllabi/TA_pol_150_2016.pdf">Syllabus (Jeremy Fortier)</a></li>
   <li><a href="evals/Hale Teaching Eval - POL 150 (Spring 2016).pdf">University Course Evaluations</li></a>
   <br style="line-height:0px;" />
-  </ul>
+  </ul></li>
  
-  <li>British Politics (Fall 2015)</li>
+  <li>British Politics (Fall 2015)
   <ul>
   <li><a href="syllabi/TA_pol_147B_2015.pdf">Syllabus (James Adams)</a></li>
   <li><a href="evals/Hale Teaching Eval - POL 147B (Fall 2015).pdf">University Course Evaluations</li></a>
   <br style="line-height:0px;" />
-  </ul>
+  </ul></li>
   
 </ol>
