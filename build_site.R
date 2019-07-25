@@ -26,6 +26,6 @@ rmarkdown::render_site()
 #git push origin master
 # git push --force
 
-#Create a blank file
+#To create a blank file
 # touch X.rmd 
 # touch Y.css
