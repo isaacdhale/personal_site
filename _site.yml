@@ -16,8 +16,8 @@ navbar:
       href: mailto:idhale@ucdavis.edu
     - icon: fa-github fa-lg
       href: https://github.com/isaacdhale
- #   - icon: fa-twitter fa-lg
- #     href: https://twitter.com/isaachale
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/isaachale
 output:
   html_document:
     theme: flatly
