@@ -38,7 +38,7 @@ title: "Isaac Hale's Research"
 
 ![](candidate_stimuli_placements_lines.png)
   
-<p style="text-align:center"><b>The Distorting Effects of Racial Animus on Proximity Voting in the 2016 Elections <br> with <a href="https://calgara.github.io">Carlos Algara</a>, PhD Candidate, University of California, Davis</b></p>
+<p style="text-align:center"><b>The Distorting Effects of Racial Animus on Proximity Voting in the 2016 Elections <br> with <a href="https://calgara.github.io">Carlos Algara</a>, PhD, University of California, Davis</b></p>
 
 <i><p style="text-align:center">\(\star\)<a href="https://journals.sagepub.com/doi/10.1177/1532673X18812403">Manuscript Published in Electoral Studies (2019)</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p>
 
@@ -101,6 +101,20 @@ title: "Isaac Hale's Research"
 
 <i>Abstract</i>: This study examines the effect of electoral system variation in U.S. state legislative elections on candidate ideological dispersion. Previous work suggests that, under certain conditions, greater district magnitude has a centrifugal polarizing effect on candidate ideology. Cross-national investigations of this theory by Ezrow (2008) and Dow (2001, 2011) have produced conflicting results. Building on this body of research, this paper leverages electoral system variation in U.S. state legislative elections to evaluate whether district-level electoral system variation influences candidate ideology. We find strong evidence for a polarizing effect of district magnitude on candidate ideology, even under plurality voting. This paper has significant implications for our understanding of candidate ideological positioning in sub-national contexts as well of how electoral systems affect the quality of representation voters receive from legislators.
 
+
+
+<br>
+<br>
+
+<i><p style="text-align:center">Marginal Effects of Racial Resentment on GOP Vote Share</p></i>
+
+![](additive_model_marginal_effects.png)
+  
+<p style="text-align:center"><b>White Racial Resentment & Political Cross-Pressures in Nationalized Elections: The Case of the Republican Coalition in the Trump Era <br> with <a href="https://calgara.github.io">Carlos Algara</a>, PhD, University of California, Davis</b></p>
+
+<i><p style="text-align:center">\(\star\)<b>Working Paper</b>\(\star\)<a href="files/White Racial Resentment (preview).pdf">Working Manuscript Draft</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p></i>
+
+<i>Abstract</i>: While scholars have found that Trump benefited electorally from racial resentment sentiments among whites, it is less clear how these racial resentment attitudes influence votechoice across partisan and ideological cleavages in the electorate. It is also unclear whether racial resentment affected voting at the congressional level or electoral outcomes at the aggregate level. Using a novel measure of racial resentment at the subnational level and survey data, we make three clear findings: (1) Trump and Republican congressional candidates benefited from racial resentment both at the aggregate level and among white voters, (2) this electoral benefit for Republicans persisted during the 2018 midterm elections, and (3) the effect of resentment on vote-choice did not significantly vary across partisan and ideological cleavages in the white electorate. Our findings suggest that, even during the era of highly nationalized and partisan elections, racial resentment is still a mechanism by which Republicans can win significant electoral support among Democrats and relatively liberal voters in the white electorate. These findings have implications for the growing salience of racial resentment in the Republican electoral coalition.
 
 
 <br>
