@@ -34,6 +34,22 @@ title: "Isaac Hale's Research"
 
 <br>
 <br>
+
+
+<i><p style="text-align:center">Probability of Democratic House Vote by Racial Resentment and Candidate Race Among Whites</p></i>
+
+![](cand_race_RR_marginal.png)
+  
+<p style="text-align:center"><b>Post-Racial Politics? Racial Resentment and US House Elections, 2010-2016</b></p>
+
+<i><p style="text-align:center">\(\star\)<b>Forthcoming at the Journal of Race, Ethnicity, and Politics</b>\(\star\)<a href="files/Post-Racial Politics - Racial Resentment and US House Elections, 2010-2016 (preview).pdf">Working Manuscript Draft</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p></i>
+
+<i>Abstract</i>:  Despite the longstanding underrepresentation of blacks in Congress, political science research has not settled on the cause. While there is increasing evidence that racial attitudes affect vote choice in today's congressional elections, how this effect interacts with the race of the candidates is unknown. This study addresses this debate by analyzing novel survey, census, and candidate data from the Obama era of congressional elections (2010-2016) in order to test whether racially prejudiced attitudes held by whites decrease their likelihood of supporting black Democratic candidates and Democratic candidates as a whole. In line with theoretical predictions, this paper finds that Democratic House candidates are less likely to receive votes among white voters with strong racial resentment towards blacks, and black Democratic candidates fare even worse. These findings provide an explanation for black legislative underrepresentation and contribute to theories of partisan racial realignment.
+
+
+<br>
+<br>
+
 <i><p style="text-align:center">Distribution of 2016 Federal Election Candidate Positions</p></i>
 
 ![](candidate_stimuli_placements_lines.png)
@@ -77,20 +93,6 @@ title: "Isaac Hale's Research"
 <br>
 <br>
 
-
-<i><p style="text-align:center">Probability of Democratic House Vote by Racial Resentment and Candidate Race Among Whites</p></i>
-
-![](cand_race_RR_marginal.png)
-  
-<p style="text-align:center"><b>Post-Racial Politics? Racial Resentment and US House Elections, 2010-2016</b></p>
-
-<i><p style="text-align:center">\(\star\)<b>Invited to Revise & Resubmit at the Journal of Race, Ethnicity, and Politics</b>\(\star\)<a href="files/Post-Racial Politics - Racial Resentment and US House Elections, 2010-2016 (preview).pdf">Working Manuscript Draft</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p></i>
-
-<i>Abstract</i>:  Despite the longstanding underrepresentation of blacks in Congress, political science research has not settled on the cause. While there is increasing evidence that racial attitudes affect vote choice in today's congressional elections, how this effect interacts with the race of the candidates is unknown. This study addresses this debate by analyzing novel survey, census, and candidate data from the Obama era of congressional elections (2010-2016) in order to test whether racially prejudiced attitudes held by whites decrease their likelihood of supporting black Democratic candidates and Democratic candidates as a whole. In line with theoretical predictions, this paper finds that Democratic House candidates are less likely to receive votes among white voters with strong racial resentment towards blacks, and black Democratic candidates fare even worse. These findings provide an explanation for black legislative underrepresentation and contribute to theories of partisan racial realignment.
-
-
-<br>
-<br>
 <i><p style="text-align:center">Map of States With Lower Legislative Chambers That Use Multi-seat Districts</p></i>
 
 ![](mntv_map.png)
