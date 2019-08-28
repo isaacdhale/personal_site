@@ -18,11 +18,11 @@ title: "Isaac Hale's CV"
 
 <font size="+3"><b>Curriculum Vitae</b></font>
 
-<font size="+1"><b><i>August 13, 2019</b></i></font>
+<font size="+1"><b><i>August 21, 2019</b></i></font>
 
 <html>
-Below is my CV. You may also <a href="files/Isaac Hale CV 8-13-19.pdf">download my CV in pdf format.</a>
+Below is my CV. You may also <a href="files/Isaac Hale CV 8-21-19.pdf">download my CV in pdf format.</a>
 
-<embed src="files/Isaac Hale CV 8-13-19.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="files/Isaac Hale CV 8-21-19.pdf" type="application/pdf" width="100%" height="600px" />
 </body>
 </html>

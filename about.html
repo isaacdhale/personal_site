@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -247,18 +248,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -344,7 +333,7 @@ $(document).ready(function () {
 <p>Contact Information:<br> Department of Political Science <br> University of California, Davis <br> One Shields Avenue <br> Davis, CA 95616 <br> <a href="mailto:idhale@ucdavis.edu">idhale@ucdavis.edu </a><br></p>
 <a href="https://twitter.com/IsaacHale?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow <span class="citation">@IsaacHale</span></a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p>Copyright Â© 2017 by Isaac Hale. Made with RStudio</p>
+<p>Copyright © 2017 by Isaac Hale. Made with RStudio</p>
 <p><br></p>
 
 <!DOCTYPE html>
@@ -368,6 +357,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
