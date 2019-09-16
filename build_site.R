@@ -19,7 +19,7 @@ rmarkdown::render_site()
 #the -A flag tells it git you want everything
 
 
-## BUild website locally
+## Build website locally
 # git commit -m "update"
 
 #Push website to github
