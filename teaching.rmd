@@ -17,7 +17,7 @@ title: "Isaac Hale's Teaching"
 
 <img src="banner_UC_Davis.jpg" alt="banner">
 <br>
-Throughout my years as a graduate and undergraduate student, I have benefitted from teachers whose pedagogical ingenuity and intellectual curiosity have pushed me to excel. As a graduate instructor and teaching assistant, I have sought to similarly inspire undergraduate students to realize their full academic potential. At UC Davis, I have had the privilege to teach five undergraduate courses in Comparative and American politics as the instructor of record, and to serve as a teaching assistant for ten additional classes. In 2019, I was honored to receive the Marvin Zetterbaum Award for Excellence in Graduate Student Instruction from the UC Davis Department of Political Science.
+Throughout my years as a graduate and undergraduate student, I have benefitted from teachers whose pedagogical ingenuity and intellectual curiosity have pushed me to excel. As a graduate instructor and teaching assistant, I have sought to similarly inspire undergraduate students to realize their full academic potential. At UC Davis, I have had the privilege to teach five undergraduate courses in Comparative and American politics as the instructor of record, and to serve as a teaching assistant for eleven additional classes. In 2019, I was honored to receive the Marvin Zetterbaum Award for Excellence in Graduate Student Instruction from the UC Davis Department of Political Science.
 
 Below, you will find various links containing syllabi, course evaluations, sample classroom presentations, and sample code for courses I have instructed.<br><br>
 
@@ -115,6 +115,12 @@ Below, you will find various links containing syllabi, course evaluations, sampl
 
 # Teaching Assistant
  <ol>
+  <li>California State Government and Politics (Fall 2019)
+  <ul>
+  <li><a href="syllabi/TA_pol_104_2019.pdf">Syllabus (Scott MacKenzie)</a></li>
+  <br style="line-height:0px;" />
+  </ul></li>
+
   <li>French Politics (Spring 2019)
   <ul>
   <li><a href="syllabi/TA_pol_147C_2019.pdf">Syllabus (James Adams)</a></li>
