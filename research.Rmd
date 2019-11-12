@@ -73,15 +73,11 @@ title: "Isaac Hale's Research"
 
 <i><p style="text-align:center">\(\star\)<a href="https://journals.sagepub.com/doi/10.1177/1532673X18812403">Manuscript Published in Electoral Studies (2019)</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p>
 
-<p style="text-align:center">\(\star\)<a href="https://www.sacbee.com/news/politics-government/capitol-alert/article233013207.html">Research featured in The Sacramento Bee (Jul. 24, 2019): Trump's strategy of racial resentment won't work in California, researcher says </a></p>
-
-<p style="text-align:center">\(\star\)<a href="https://www.sacbee.com/news/politics-government/capitol-alert/article232884162.html">Research featured in The Sacramento Bee (Jul. 19, 2019): White racial resentment is a winning Republican strategy, this political scientist says</a></p>
-
 <p style="text-align:center">\(\star\)<a href="https://www.latercera.com/mundo/noticia/ataques-racistas-trump-congresistas-definen-tono-campana-presidencial/743936/">Research featured in La Tercera (Jul. 18, 2019): Ataques racistas de Trump a congresistas definen tono de su campana presidencial</a></p>
 
 <p style="text-align:center">\(\star\)<a href="https://nyti.ms/2XUY7Xg">Research featured in The New York Times (Jul. 16, 2019): Trump Sets the 2020 Tone: Like 2016, Only This Time 'the Squad' Is Here</a></p>
 
-<p style="text-align:center">\(\star\)<a href="https://psmag.com/news/trumps-racist-remarks-helped-down-ballot-gop-candidates-in-2016">Research featured in Pacific Standard (April 8, 2019): Trump's Racist Remarks Helped Boost Down-Ballot GOP in 2016</a></p>
+<p style="text-align:center">\(\star\)<a href="https://psmag.com/news/trumps-racist-remarks-helped-down-ballot-gop-candidates-in-2016">Research featured in Pacific Standard (Apr. 8, 2019): Trump's Racist Remarks Helped Boost Down-Ballot GOP in 2016</a></p>
 
 <p style="text-align:center">\(\star\)<a href="https://www.nytimes.com/2019/02/27/opinion/trump-obama-race.html">Research featured in The New York Times (Feb. 27, 2019): The Deepening `Racialization' of American Politics</a></p>
 
@@ -119,6 +115,16 @@ title: "Isaac Hale's Research"
 
 <i>Abstract</i>: While scholars have found that Trump benefited electorally from racial resentment sentiments among whites, it is less clear how these racial resentment attitudes influence votechoice across partisan and ideological cleavages in the electorate. It is also unclear whether racial resentment affected voting at the congressional level or electoral outcomes at the aggregate level. Using a novel measure of racial resentment at the subnational level and survey data, we make three clear findings: (1) Trump and Republican congressional candidates benefited from racial resentment both at the aggregate level and among white voters, (2) this electoral benefit for Republicans persisted during the 2018 midterm elections, and (3) the effect of resentment on vote-choice did not significantly vary across partisan and ideological cleavages in the white electorate. Our findings suggest that, even during the era of highly nationalized and partisan elections, racial resentment is still a mechanism by which Republicans can win significant electoral support among Democrats and relatively liberal voters in the white electorate. These findings have implications for the growing salience of racial resentment in the Republican electoral coalition.
 
+
+<p style="text-align:center">\(\star\)<a href="https://www.la-croix.com/Monde/Ameriques/Au-sein-parti-republicain-anti-Trump-bien-silencieux-2019-08-27-1201043412">Research featured in La Croix (Aug. 27,2019): Au sein du parti republicain, des anti-Trump bien silencieux.</a></p>
+
+<p style="text-align:center">\(\star\)<a href="https://www.rollcall.com/news/congress/duncan-hunter-said-person-making-ok-sign-in-photo-was-a-stranger-the-man-calls-hunter-a-friend">Research featured in Roll Call (Aug. 12,2019): Duncan Hunter said person making 'OK' sign in photo was a 'stranger.' The mean calls Hunter a friend</a></p>
+
+<p style="text-align:center">\(\star\)<a href="https://www.sacbee.com/news/politics-government/capitol-alert/article233013207.html">Research featured in The Sacramento Bee (Jul. 24, 2019): Trump's strategy of racial resentment won't work in California, researcher says </a></p>
+
+<p style="text-align:center">\(\star\)<a href="https://www.sacbee.com/news/politics-government/capitol-alert/article232884162.html">Research featured in The Sacramento Bee (Jul. 19, 2019): White racial resentment is a winning Republican strategy, this political scientist says</a></p>
+
+<p style="text-align:center">\(\star\)<a href="https://www.salon.com/2019/07/18/trumps-racist-tweets-are-part-of-a-coordinated-2020-strategy_partner/">Research featured in Salon (Jul. 18,2019): Trump's racist tweets are part of a coordinated 2020 strategy</a></p>
 
 <br>
 <br>
