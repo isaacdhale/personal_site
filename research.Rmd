@@ -25,7 +25,7 @@ title: "Isaac Hale's Research"
   
 <p style="text-align:center"><b>Candidate Extremism and Electoral Design in U.S. State Legislative Elections</b></p>
 
-<i><p style="text-align:center">\(\star\)<b>Manuscript Forthcoming at Social Science Quarterly</b>\(\star\)<a href="files/Candidate Extremism and Electoral Design in US State Legislative Elections (preview).pdf">Working Manuscript Draft</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p></i>
+<p style="text-align:center">\(\star\)<i><a href="https://doi.org/10.1111/ssqu.12749">Manuscript Published in Social Science Quarterly (2019)</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p>
 
 <i>Abstract</i>: This study examines the effect of electoral system variation in U.S. state legislative elections on candidate ideological dispersion. Previous work suggests that, under certain conditions, greater district magnitude has a centrifugal polarizing effect on candidate ideology. Cross-national investigations of this theory by Ezrow (2008) and Dow (2001, 2011) have produced conflicting results. Building on this body of research, this paper leverages electoral system variation in U.S. state legislative elections to evaluate whether district-level electoral system variation influences candidate ideology. We find strong evidence for a polarizing effect of district magnitude on candidate ideology, even under plurality voting. This paper has significant implications for our understanding of candidate ideological positioning in sub-national contexts as well of how electoral systems affect the quality of representation voters receive from legislators.
 
