@@ -15,7 +15,7 @@ rmarkdown::render_site()
 # cd "C:\Users\Isaac\Google Drive\Website\Attempt_2\personal_site"
 
 # Add all files to staging areas
-#git add -A 
+# git add -A 
 #the -A flag tells it git you want everything
 
 
@@ -23,7 +23,7 @@ rmarkdown::render_site()
 # git commit -m "update"
 
 #Push website to github
-#git push origin master
+# git push origin master
 # git push --force
 
 #To create a blank file
