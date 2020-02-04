@@ -69,6 +69,12 @@ Below, you will find various links containing syllabi, course evaluations, sampl
 
 # Discussion Section Teaching Assistant
  <ol>
+   <li>Eastern European Democratization (Winter 2020)
+  <ul>
+  <li><a href="syllabi/TA_pol_144A_2020.pdf">Syllabus (Josephine Andrews)</a></li>
+  <br style="line-height:0px;" />
+  </ul></li>
+ 
   <li>The Scientific Study of Politics (Fall 2018)
   <ul>
   <li><a href="syllabi/TA_pol_051_2018.pdf">Syllabus (Bradford Jones)</a></li>
@@ -115,13 +121,6 @@ Below, you will find various links containing syllabi, course evaluations, sampl
 
 # Teaching Assistant
  <ol>
-  <li>Eastern European Democratization (Winter 2020)
-  <ul>
-  <li><a href="syllabi/TA_pol_144A_2020.pdf">Syllabus (Josephine Andrews)</a></li>
-  <br style="line-height:0px;" />
-  </ul></li>
-
-  
   <li>California State Government and Politics (Fall 2019)
   <ul>
   <li><a href="syllabi/TA_pol_104_2019.pdf">Syllabus (Scott MacKenzie)</a></li>
