@@ -105,9 +105,9 @@ title: "Isaac Hale's Research"
 <br>
 
 
-<i><p style="text-align:center">Marginal Effects of Racial Resentment on GOP Vote Share</p></i>
+<i><p style="text-align:center">Bivariate Relationship between Subnational Racial Resentment & GOP Vote Shares</p></i>
 
-![](additive_model_marginal_effects.png)
+![](scatterplots_RR_2018.png)
   
 <p style="text-align:center"><b>White Racial Resentment & Political Cross-Pressures in Nationalized Elections: The Case of the Republican Coalition in the Trump Era <br> with <a href="https://calgara.github.io">Carlos Algara</a>, Assistant Professor of Political Science, University of Texas, El Paso</b></p>
 
