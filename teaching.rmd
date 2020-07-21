@@ -25,8 +25,10 @@ Below, you will find various links containing syllabi, course evaluations, sampl
 
 <ol>
  <li>The Legislative Process (Summer 2020) 
+   <br style="line-height:0px;" />
 </li>
- 
+
+
   <li>The Presidency (Summer 2020) 
   <ul>
   <li><a href="syllabi/pol_106_2020_SS1.pdf">Syllabus</a></li>
