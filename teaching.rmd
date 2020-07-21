@@ -25,9 +25,10 @@ Below, you will find various links containing syllabi, course evaluations, sampl
 
 <ol>
  <li>The Legislative Process (Summer 2020) 
+ <ul>
+   <li><i>Course delivered online due to COVID-19</i></li>
    <br style="line-height:0px;" />
-</li>
-
+ </ul></li>
 
   <li>The Presidency (Summer 2020) 
   <ul>
