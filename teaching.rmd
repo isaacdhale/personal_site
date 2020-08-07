@@ -35,6 +35,7 @@ Below, you will find various links containing syllabi, course evaluations, sampl
   <li>The Presidency (Summer 2020) 
   <ul>
   <li><a href="syllabi/pol_106_2020_SS1.pdf">Syllabus</a></li>
+  <li><a href="evals/Hale Teaching Eval - POL 106 (Summer 2020).pdf">University Course Evaluations</a></li>
   <li><a href="presentations/POL 106 - Rethinking Electoral Institutions.pdf">Sample Classroom Presentation</a></li>
   <li><i>Course delivered online due to COVID-19</i></li>
   <br style="line-height:0px;" />
