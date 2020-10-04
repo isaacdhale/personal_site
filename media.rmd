@@ -1,0 +1,85 @@
+---
+title: "Isaac Hale's Public Scholarship"
+---
+
+<head>
+<title>Isaac Hale's Public Scholarship</title>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140699540-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140699540-1');
+</script>
+</head>
+
+<font size="+3"><b>Public Scholarship</b></font>
+
+
+Public scholarship improves academic research, generates public interest in our work, and communicates the substantive importance of our research to policymakers and voters. I have had the privilege to share my research and expertise with a variety of non-academic media outlets. My research has been featured in <i>The New York Times</i>, <i>The Sacramento Bee</i>, <i>Roll Call</i>, <i>Salon</i>, <i>La Tercera</i>, <i>Pacific Standard</i>, <i>Democratic Audit</i>, <i>RAISE the Vote</i>, and <i>The California Aggie</i>. I have also appeared on <i>ABC10 television news</i> in Sacramento, the <i>Communication Matters</i> podcast, and <i>The News Cycle</i> podcast to discuss state and national politics as a UC Davis political scientist. 
+
+# Invited Blog Posts & Op-eds
+
+<ol>
+
+ <li> <a href="https://connect.apsanet.org/raisethevote/2020/07/22/will-trump-congressional-republicans-benefit-from-white-racial-attitudes-in-2020/">"Will Trump & Congressional Republicans Benefit from White Racial Attitudes in 2020?"</a> - <i>RAISE the Vote</i> APSA blog post (2020)
+
+<li> <a href="https://tinyurl.com/yxluq74p">"Strategic voting in the 2015 general election: why Liberal Democrats didn’t vote for their own party"</a> - <i>Democratic Audit</i> blog post (2019)
+
+<li> <a href="https://www.huffingtonpost.com/isaac-hale/torture-and-the-rule-of-l_b_814272.html">"Torture and the Rule of Law"</a> - <i>The Huffington Post</i> op-ed (2011)
+</ol>
+<br>
+
+# Media Coverage of My Research
+
+<ol>
+
+ <li> <a href="https://tinyurl.com/yyc32ssr">"Au sein du  parti rèpublicain, des anti-Trump bien silencieux"</a> - <i>La Croix</i> (2019)
+ 
+ <li> <a href="https://tinyurl.com/y3ksxsjn">"Duncan Hunter said person making ‘OK’ sign in photo was a ‘stranger.’ The man calls Hunter a friend"</a> - <i>Roll Call</i> (2019)
+ 
+ <li> <a href="https://tinyurl.com/y3ssqw3y">"Trump’s strategy of racial resentment won’t work in California, researcher says"</a> - <i>The Sacramento Bee</i> (2019)
+ 
+ <li> <a href="https://tinyurl.com/y5vrkrxb">"White racial resentment is a winning Republican strategy, this political scientist says"</a> - <i>The Sacramento Bee</i> (2019)
+ 
+ <li> <a href="https://tinyurl.com/y5yz9wem">"Trump's racist tweets are part of a coordinated 2020 strategy"</a> - <i>Salon</i> (2019)
+ 
+ <li> <a href="https://tinyurl.com/y5y2de8e">"Ataques racistas de Trump a congresistas definen tono  de su campaña presidencial"</a> - <i>La Tercera</i> (2019)
+ 
+ <li> <a href="https://nyti.ms/2XUY7Xg">"Trump Sets the 2020 Tone: Like 2016, Only This Time ‘the Squad’ Is Here"</a> - <i>The New York Times</i> (2019)
+ 
+ <li> <a href="https://tinyurl.com/yynrxtlc">"Trump's Racist Remarks Helped Boost Down-Ballot Republicans in 2016"</a> - <i>Pacific Standard</i> (2019)
+</ol>
+<br>
+
+# Newspaper Interviews
+
+<ol>
+
+ <li> <a href="https://tinyurl.com/y5e93zpu">"Voting center locations announced in Yolo County, following safety guidelines"</a> - <i>The California Aggie</i> (2020)
+   <br style="line-height:0px;" />
+</ol>
+<br>
+
+# Television Interviews
+
+<ol>
+
+ <li> <a href="https://www.abc10.com/article/news/health/coronavirus/what-the-presidents-health-could-mean-for-the-campaign-election-and-misinformation/103-b437506e-184d-422b-9a31-d5f495298f07">"What the President's health could mean for the campaign, election, and misinformation"</a> - <i>ABC 10 News</i>, Sacramento (2020)
+ 
+ <iframe width="640" height="360" style="border:1px solid #e6e6e6" src="https://abc10.com/embeds/video/103-d53c5632-760d-4805-8b38-618eca511e1a/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+ <li> <a href="https://tinyurl.com/y4xe3hke">"Why is the California primary so important this year?"</a> - <i>ABC 10 News</i>, Sacramento (2020)
+
+<iframe width="640" height="360" style="border:1px solid #e6e6e6" src="https://abc10.com/embeds/video/103-9e817535-681c-4e60-a126-89e6b282fe23/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+</ol>
+<br>
+
+# Podcast Interviews
+
+
+<i> Links coming soon! </i>
