@@ -72,7 +72,7 @@ Public scholarship improves academic research, generates public interest in our 
  <li> <a href="http://www.bluedevilhub.com/2020/10/05/first-2020-presidential-debate-locals-react/">"First 2020 Presidential Debate: Locals React "</a> - <i>The News Cycle</i>, a Davis High School podcast (2020)
    <br style="line-height:0px;" />
 
-<iframe width="320" height="30" src="http://www.bluedevilhub.com/?powerpress_embed=39877-podcast&amp;powerpress_player=mediaelement-audio" frameborder="0" autoplay="false" scrolling="no"></iframe>
+<iframe width="320" height="30" src="http://www.bluedevilhub.com/?powerpress_embed=39877-podcast&amp;powerpress_player=mediaelement-audio" frameborder="0" autoplay="false" scrolling="no"></iframe></li>
 
 </ol>
 <br>
