@@ -23,9 +23,9 @@ title: "Isaac Hale's Research"
 
 ![](scatterplots_RR_2018.png)
   
-<p style="text-align:center"><b>White Racial Resentment & Political Cross-Pressures in Nationalized Elections: The Case of the Republican Coalition in the Trump Era <br> with <a href="https://calgara.github.io">Carlos Algara</a>, Assistant Professor of Political Science, University of Texas, El Paso</b></p>
+<p style="text-align:center"><b>Racial attitudes & political cross-pressures in nationalized elections: The case of the Republican coalition in the Trump era <br> with <a href="https://calgara.github.io">Carlos Algara</a>, Assistant Professor of Political Science, University of Texas, El Paso</b></p>
 
-<i><p style="text-align:center">\(\star\) Manuscript Forthcoming in Electoral Studies \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p></i>
+<i><p style="text-align:center">\(\star\) <a href="https://www.sciencedirect.com/science/article/pii/S0261379420300901">Manuscript Published in Electoral Studies (2020)</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p></i>
 
 <i>Abstract</i>: While scholars have found that Trump was able to capitalize on the racial attitudes of white voters, it is less clear how these racial attitudes influenced vote-choice across partisan and ideological cleavages in the electorate. It is also unclear whether racial attitudes affected voting at the congressional level or electoral outcomes at the aggregate level. Using a novel measure of racial attitudes at the subnational level and survey data, we make three clear findings: (1) Trump and Republican congressional candidates benefited from conservative racial attitudes both at the aggregate level and among white voters, (2) this electoral benefit for Republicans persisted during the 2018 midterm elections, and (3) the effect of attitudes on vote-choice did not significantly vary across partisan and ideological cleavages in the white electorate. Our findings suggest that, even during the era of highly nationalized and partisan elections, racial attitudes are still a mechanism by which Republicans can win significant electoral support among Democrats and relatively liberal voters in the white electorate. These findings have implications for the growing salience of race in the Republican electoral coalition.
 
