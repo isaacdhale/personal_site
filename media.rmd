@@ -88,18 +88,18 @@ Public scholarship improves academic research, generates public interest in our 
 
  <li> <a href="https://www.abc10.com/article/news/politics/as-election-season-heats-up-an-increase-in-campaign-related-theft-vandalism-seen-across-northern-california/103-d7a9ca98-6a01-437b-a81e-4c4596f0b1c1">"As election season heats up, campaign-related theft, vandalism seen across Northern California"</a> - <i>ABC 10 News</i>, Sacramento (2020)
 
-<video id="primary" class="video-js vjs-default-skin" width="640" height="360" src="videos/primary.mp4" type='video/mp4' />
+<video id="primary" class="video-js vjs-default-skin" width="640" height="360" src="https://github.com/isaacdhale/personal_site/raw/master/videos/primary.mp4" type='video/mp4' />
 </video>
 
 
  <li> <a href="https://www.abc10.com/article/news/health/coronavirus/what-the-presidents-health-could-mean-for-the-campaign-election-and-misinformation/103-b437506e-184d-422b-9a31-d5f495298f07">"What the President's health could mean for the campaign, election, and misinformation"</a> - <i>ABC 10 News</i>, Sacramento (2020)
  
- <video id="vandalism" class="video-js vjs-default-skin" width="640" height="360" src="videos/vandalism.mp4" type='video/mp4' />
+ <video id="vandalism" class="video-js vjs-default-skin" width="640" height="360" src="https://github.com/isaacdhale/personal_site/raw/master/videos/vandalism.mp4" type='video/mp4' />
 </video>
 
  <li> <a href="https://tinyurl.com/y4xe3hke">"Why is the California primary so important this year?"</a> - <i>ABC 10 News</i>, Sacramento (2020)
 
- <video id="health" class="video-js vjs-default-skin" width="640" height="360" src="videos/health.mp4" type='video/mp4' />
+ <video id="health" class="video-js vjs-default-skin" width="640" height="360" src="https://github.com/isaacdhale/personal_site/raw/master/videos/health.mp4" type='video/mp4' />
 </video>
 
 </ol>
