@@ -98,7 +98,12 @@ Public scholarship improves academic research, generates public interest in our 
 
 <ol>
 
+ <li> <a href="https://www.cbs8.com/article/news/politics/will-newsom-face-recall/103-bd147f68-3eb7-405f-9141-1779222752b1?fbclid=IwAR2zeT22NE_MKyavAA3d1Afq-d9JVTUKjlxYYKByMGUPKRaZp4xfWgO11Us">"Will Newsom face recall election? It's a 'coin flip'"</a> - <i>CBS 13 News</i>, Sacramento (2020)
 
+<video width="640" height="360" controls>
+  <source src="https://github.com/isaacdhale/personal_site/raw/master/videos/EC.mp4" type="video/mp4">
+</video> 
+<br>
 
 
  <li> <a href="https://sacramento.cbslocal.com/2020/12/08/election-debate-is-the-electoral-college-the-best-way-to-pick-a-president/">"Election Debate: Is The Electoral College The Best Way To Pick A President?"</a> - <i>CBS 13 News</i>, Sacramento (2020)
