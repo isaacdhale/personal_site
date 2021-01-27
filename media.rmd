@@ -66,6 +66,8 @@ Public scholarship improves academic research, generates public interest in our 
 
 <ol>
 
+ <li> <a href="https://theaggie.org/2021/01/15/uc-davis-professors-discuss-the-future-of-republican-politics">"UC Davis professors discuss the future of Republican politics"</a> - <i>The California Aggie</i> (2021)
+
  <li> <a href="https://www.sacbee.com/article247950105.html">"‘We have to do better’: California Democrats say COVID pandemic highlighted their failures"</a> - <i>The Sacramento Bee</i> (2021)
 
  <li> <a href="https://tinyurl.com/y5e93zpu">"Voting center locations announced in Yolo County, following safety guidelines"</a> - <i>The California Aggie</i> (2020)
@@ -95,6 +97,9 @@ Public scholarship improves academic research, generates public interest in our 
 # Television Interviews
 
 <ol>
+
+
+
 
  <li> <a href="https://sacramento.cbslocal.com/2020/12/08/election-debate-is-the-electoral-college-the-best-way-to-pick-a-president/">"Election Debate: Is The Electoral College The Best Way To Pick A President?"</a> - <i>CBS 13 News</i>, Sacramento (2020)
 
