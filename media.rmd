@@ -98,6 +98,14 @@ Public scholarship improves academic research, generates public interest in our 
 
 <ol>
 
+<li> <a href="https://www.kcra.com/article/polls-show-gov-gavin-newsoms-approval-rating-slipping/35435141">"Polls show Gov. Gavin Newsom’s approval rating is slipping"</a> - <i>KCRA 3</i>, Sacramento (2021)
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/isaacdhale/personal_site/raw/master/videos/recall.mp4" type="video/mp4">
+</video> 
+<br>
+
+
  <li> <a href="https://www.cbs8.com/article/news/politics/will-newsom-face-recall/103-bd147f68-3eb7-405f-9141-1779222752b1?fbclid=IwAR2zeT22NE_MKyavAA3d1Afq-d9JVTUKjlxYYKByMGUPKRaZp4xfWgO11Us">"Will Newsom face recall election? It's a 'coin flip'"</a> - <i>CBS 8</i>, San Diego (2021)
 
 <video width="640" height="360" controls>
