@@ -98,14 +98,26 @@ Public scholarship improves academic research, generates public interest in our 
 
 <ol>
 
+<li> <a href="https://fox40.com/news/california-connection/whats-next-in-newsom-recall-effort/">"What’s next in Newsom recall effort"</a> - <i>FOX 40</i>, Sacramento (2021)
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/isaacdhale/personal_site/raw/master/videos/FOX40_recall.mp4" type="video/mp4">
+</video> 
+<br>
+
+<li> <a href="https://www.kcra.com/article/whats-next-gavin-newsom-recall-efforts/35774037">"What’s next for Newsom recall efforts as signatures increase"</a> - <i>KCRA 3</i>, Sacramento (2021)
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/isaacdhale/personal_site/raw/master/videos/kcra_recall.mp4" type="video/mp4">
+</video> 
+<br>
+
 <li> <a href="https://fox40.com/morning/interview-uc-davis-lecturer-discusses-effort-to-recall-gov-newsom/">"Interview: UC Davis lecturer discusses effort to recall Gov. Newsom"</a> - <i>FOX 40</i>, Sacramento (2021)
 
 <video width="640" height="360" controls>
   <source src="https://github.com/isaacdhale/personal_site/raw/master/videos/signatures.mp4" type="video/mp4">
 </video> 
 <br>
-
-
 
 
 <li> <a href="https://www.kcra.com/article/polls-show-gov-gavin-newsoms-approval-rating-slipping/35435141">"Polls show Gov. Gavin Newsom’s approval rating is slipping"</a> - <i>KCRA 3</i>, Sacramento (2021)
