@@ -3,8 +3,8 @@ title: "About Me"
 ---
 
 - __Name:__ Isaac Hale
-- __Ocupation:__ doctoral candidate in Political Science at the University of California, Davis.
-- __Research Interests:__ electoral systems, legislative representation, political behaviour and public opinion.
+- __Ocupation:__ Lecturer of Political Science at the University of California, Davis.
+- __Research Interests:__ electoral systems, legislative representation, political behavior and public opinion.
 
 ![headshot](headshot.jpg)
   
