@@ -14,11 +14,11 @@ navbar:
     - text: "Public Scholarship"
       href: media.html
   right:
-    - icon: fa-envelope fa-lg
+    - icon: fas fa-envelope
       href: mailto:idhale@ucdavis.edu
-    - icon: fa-github fa-lg
+    - icon: fab fa-github
       href: https://github.com/isaacdhale
-    - icon: fa-twitter fa-lg
+    - icon: fab fa-twitter
       href: https://twitter.com/isaachale
 output:
   html_document:
