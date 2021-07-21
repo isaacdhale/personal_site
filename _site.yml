@@ -15,7 +15,7 @@ navbar:
       href: media.html
   right:
     - icon: fas fa-envelope
-      href: mailto:idhale@ucdavis.edu
+      href: mailto:ihale@ucsb.edu
     - icon: fab fa-github
       href: https://github.com/isaacdhale
     - icon: fab fa-twitter

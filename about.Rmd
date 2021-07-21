@@ -3,22 +3,22 @@ title: "About Me"
 ---
 
 - __Name:__ Isaac Hale
-- __Ocupation:__ Lecturer of Political Science at the University of California, Davis.
-- __Research Interests:__ electoral systems, legislative representation, political behavior and public opinion.
+- __Ocupation:__ Equity Research Postdoctoral Scholar, Blum Center on Poverty, Inequality, and Democracy (UC Santa Barbara)
+- __Research Interests:__ electoral systems, racial politics, legislative representation, political behavior and public opinion.
 
 ![headshot](headshot.jpg)
   
 Contact Information:<br>
-Department of Political Science <br>
-University of California, Davis <br>
-One Shields Avenue <br>
-Davis, CA 95616 <br>
-<a href="mailto:idhale@ucdavis.edu">idhale@ucdavis.edu </a><br>
+Blum Center on Poverty, Inequality, and Democracy <br>
+University of California, Santa Barbara <br>
+Girvetz 2317 <br>
+Santa Barbara, CA 93106 <br>
+<a href="mailto:ihale@ucsb.edu">ihale@ucsb.edu </a><br>
 
 <a href="https://twitter.com/IsaacHale?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @IsaacHale</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-Copyright © 2017 by Isaac Hale. Made with RStudio
+Copyright © 2017-2021 by Isaac Hale. Made with RStudio
 
 <br>
   

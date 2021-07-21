@@ -17,7 +17,7 @@ title: "Isaac Hale's Teaching"
 
 <img src="banner_UC_Davis.jpg" alt="banner">
 <br>
-In my years as a graduate and undergraduate student, I benefited from teachers whose pedagogical ingenuity and intellectual curiosity pushed me to excel. As a lecturer, associate instructor, and teaching assistant, I have sought to similarly inspire undergraduate students to realize their full academic potential. At UC Davis, I have had the privilege to teach fourteen undergraduate courses in Comparative and American politics as the instructor of record, and to serve as a teaching assistant for 12 additional classes. In 2019, I was honored to receive the Marvin Zetterbaum Award for Excellence in Graduate Student Instruction from the UC Davis Department of Political Science.
+In my years as a graduate and undergraduate student, I benefited from teachers whose pedagogical ingenuity and intellectual curiosity pushed me to excel. As a lecturer, associate instructor, and teaching assistant, I have sought to similarly inspire undergraduate students to realize their full academic potential. At UC Davis, I had the privilege to teach fourteen undergraduate courses in Comparative and American politics as the instructor of record, and to serve as a teaching assistant for 12 additional classes. In 2019, I was honored to receive the Marvin Zetterbaum Award for Excellence in Graduate Student Instruction from the UC Davis Department of Political Science.
 
 Below you will find links containing syllabi, course evaluations, sample classroom presentations, and sample code for courses I have instructed.<br><br>
 
@@ -28,6 +28,7 @@ Below you will find links containing syllabi, course evaluations, sample classro
  <li> Electoral Systems (Spring 2021) 
  <ul>
    <li><a href="syllabi/POL_140A_2021.pdf">Syllabus</a></li>
+   <li><a href="evals/Hale Teaching Eval - POL 140A (Spring 2021).pdf">University Course Evaluations</a></li>
    <li><a href="presentations/POL 140A - Proportional Representation (Spring 2021).pdf">Sample Classroom Presentation</a></li>
    <li><i>Course delivered online due to COVID-19</i></li>
    <br style="line-height:0px;" />
@@ -36,6 +37,7 @@ Below you will find links containing syllabi, course evaluations, sample classro
   <li> Introduction to Comparative Politics (Spring 2021) 
   <ul>
   <li><a href="syllabi/POL_002_2021_Spring.pdf">Syllabus</a></li>
+  <li><a href="evals/Hale Teaching Eval - POL 002 (Spring 2021).pdf">University Course Evaluations</a></li>
   <li><a href="presentations/POL 002 - Presidentialism and Parliamentarism 1 (Spring 2021).pdf">Sample Classroom Presentation</a></li>
   <li><i>Course delivered online due to COVID-19</i></li>
   <br style="line-height:0px;" />
