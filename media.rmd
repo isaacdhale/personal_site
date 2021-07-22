@@ -104,6 +104,14 @@ Public scholarship improves academic research, generates public interest in our 
 
 <ol>
 
+<li> <a href="https://youtu.be/Fel4EloMYb8">"California's official recall list is posted. Here's what to expect."</a> - <i>ABC 10</i>, Sacramento (2021)
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/isaacdhale/personal_site/raw/master/videos/elder.mp4" type="video/mp4">
+</video> 
+<br>
+
+
 <li> <a href="https://fox40.com/morning/political-science-lecturer-discusses-impact-of-recall-election-ballot-case/">"Political science lecturer discusses impact of recall election ballot case"</a> - <i>FOX 40</i>, Sacramento (2021)
 
 <video width="640" height="360" controls>
