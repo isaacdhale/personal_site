@@ -25,7 +25,7 @@ title: "Isaac Hale's Research"
 
 <p style="text-align:center"><b>Electoral Reform & Strategic Voting in Chilean Legislative Elections</b></p>
 
-<i><p style="text-align:center">\(\star\)<b>Forthcoming at <i>Representation</i></b> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p></i>
+<i><p style="text-align:center">\(\star\) <a href="https://doi.org/10.1080/00344893.2021.1964585"><b>Manuscript Published in <i>Representation</i> (2021)</b></a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p></i>
 
 
 </i>

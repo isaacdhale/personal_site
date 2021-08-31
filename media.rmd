@@ -95,6 +95,18 @@ Public scholarship improves academic research, generates public interest in our 
 <ol>
 
 <li> <figure>
+    <figcaption>"California Recall Report, August 31st 2021" - <i>93.1 KFBK</i>, Sacramento (2021)</figcaption>
+    <audio
+        controls
+        src="https://github.com/isaacdhale/personal_site/raw/master/audio/KFBK_08_31_2021.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+<br>
+
+<li> <figure>
     <figcaption>"Recall ballots will be mailed to voters starting mid-August" - <i>KCBS AM</i>, San Francisco (2021)</figcaption>
     <audio
         controls
