@@ -106,7 +106,7 @@ title: "Isaac Hale's Research"
   
 <p style="text-align:center"><b>The Distorting Effects of Racial Animus on Proximity Voting in the 2016 Elections <br> with <a href="https://calgara.github.io">Carlos Algara</a>, Assistant Professor of Political Science, Claremont Graduate University</b></p>
 
-<i><p style="text-align:center">\(\star\)<a href="https://journals.sagepub.com/doi/10.1177/1532673X18812403">Manuscript Published in Electoral Studies (2019)</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p>
+<i><p style="text-align:center">\(\star\)<a href="https://doi.org/10.1016/j.electstud.2019.02.001">Manuscript Published in Electoral Studies (2019)</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p>
 
 <p style="text-align:center">\(\star\)<b>Research featured in <i>The New York Times</i>, <i>Pacific Standard</i>, and <i>La Tercera</i>.</b></p>
 
