@@ -16,10 +16,12 @@ navbar:
   right:
     - icon: fas fa-envelope
       href: mailto:ihale@ucsb.edu
-    - icon: fab fa-github
-      href: https://github.com/isaacdhale
     - icon: fab fa-twitter
       href: https://twitter.com/isaachale
+    - icon: fa-graduation-cap fa-lg
+      href: https://scholar.google.com/citations?user=-utYyHYAAAAJ
+    - icon: fab fa-github
+      href: https://github.com/isaacdhale
 output:
   html_document:
     theme: flatly
