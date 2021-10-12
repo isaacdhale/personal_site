@@ -172,7 +172,7 @@ title: "Isaac Hale's Research"
 <br>
 
 
-<font size="+3"><b>Working Papers</b></font>
+<font size="+3"><b>Selected Working Papers</b></font>
 
 
 <i><p style="text-align:center">Predicted Probability of NDP Vote by Minority Feeling Thermometer</p></i>
@@ -182,7 +182,7 @@ title: "Isaac Hale's Research"
 
 <p style="text-align:center"><b>The Effect of Racial Attitudes on Vote Choice in the 2019 Canadian Election<br></b></p>
 
-<i><p style="text-align:center">\(\star\)<b>In Prepartion for the 2021 APSA Conference</b>\(\star\)<a href="files/Canada_Singh_2019_(preview).pdf">Working Abstract</a> \(\star\)<a href="mailto:ihale@ucsb.edu">Manuscript Data Materials</a></p></i>
+<i><p style="text-align:center">\(\star\)<b>Presented at the 2021 APSA Conference</b>\(\star\)<a href="files/Canada_Singh_2019_(preview).pdf">Working Abstract</a> \(\star\)<a href="mailto:ihale@ucsb.edu">Manuscript Data Materials</a></p></i>
 
 </i>
 <br>
