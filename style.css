@@ -35,3 +35,7 @@ h1.title {
   font-size: 0;
   color: white;
 }
+
+.half-line {
+  line-height: .3em;
+}
