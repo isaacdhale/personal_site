@@ -13,8 +13,8 @@
 
 <title>About Me</title>
 
-<script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -235,7 +239,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -262,7 +266,7 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="mailto:ihale@ucsb.edu">
+  <a href="mailto:halei@oxy.edu">
     <span class="fas fa-envelope"></span>
      
   </a>
@@ -301,15 +305,20 @@ $(document).ready(function () {
 
 <ul>
 <li><strong>Name:</strong> Isaac Hale</li>
-<li><strong>Ocupation:</strong> Equity Research Postdoctoral Scholar, Blum Center on Poverty, Inequality, and Democracy (UC Santa Barbara)</li>
-<li><strong>Research Interests:</strong> electoral systems, racial politics, legislative representation, political behavior and public opinion.</li>
+<li><strong>Ocupation:</strong> Equity Research Postdoctoral Scholar,
+Blum Center on Poverty, Inequality, and Democracy (UC Santa
+Barbara)</li>
+<li><strong>Research Interests:</strong> electoral systems, racial
+politics, legislative representation, political behavior and public
+opinion.</li>
 </ul>
-<div class="figure">
-<img src="Headshot.JPG" alt="" />
-<p class="caption">headshot</p>
-</div>
-<p>Contact Information:<br> Blum Center on Poverty, Inequality, and Democracy <br> University of California, Santa Barbara <br> Girvetz 2317 <br> Santa Barbara, CA 93106 <br> <a href="mailto:ihale@ucsb.edu">ihale@ucsb.edu </a><br></p>
-<a href="https://twitter.com/IsaacHale?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow <span class="citation">@IsaacHale</span></a>
+<p><img src="Headshot.JPG" /></p>
+<p>Contact Information:<br> Blum Center on Poverty, Inequality, and
+Democracy <br> University of California, Santa Barbara <br> Girvetz 2317
+<br> Santa Barbara, CA 93106 <br>
+<a href="mailto:ihale@ucsb.edu">ihale@ucsb.edu </a><br></p>
+<a href="https://twitter.com/IsaacHale?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow
+<span class="citation">@IsaacHale</span></a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p>Copyright © 2017-2022 by Isaac Hale. Made with RStudio</p>
 <p><br></p>
@@ -317,7 +326,7 @@ $(document).ready(function () {
 <!DOCTYPE html>
 <br>
 <br>
-<p>Copyright &copy; 2019-2021 by Isaac Hale. Made with <a href="https://www.rstudio.com/">RStudio</a>.</p>
+<p>Copyright &copy; 2019-2022 by Isaac Hale. Made with <a href="https://www.rstudio.com/">RStudio</a>.</p>
 
 
 

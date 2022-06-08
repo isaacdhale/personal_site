@@ -19,7 +19,7 @@ title: "Isaac Hale's Public Scholarship"
 <font size="+3"><b>Public Scholarship</b></font>
 
 
-Public scholarship improves academic research, generates public interest in our work, and communicates the substantive importance of our research to policymakers and voters. I am currently part of an interdisciplinary team of academics, researchers, and community organizations from across California who have recently released “Towards a Just and Equitable Central Coast,” which is a report on racial, gender, immigration, and economic inequality in the state’s Central Coast region. 
+Public scholarship improves academic research, generates public interest in our work, and communicates the substantive importance of our research to policymakers and voters. I am currently part of an interdisciplinary team of academics, researchers, and community organizations from across California who have recently released <a href = "https://centralcoastequity.org/regional-equity-study/"><i> Towards a Just and Equitable Central Coast</i></a> which is a report on racial, gender, immigration, and economic inequality in the state’s Central Coast region. In this capacity I have also led and participated in several online policy workshops on the California housing crisis.
 
 I also have had the privilege to share my research and expertise with a variety of public-facing media outlets. My research has been featured in <i>The New York Times</i>, <i>The Sacramento Bee</i>,  <i>The Texas Tribune</i>, <i>SF Gate</i>, <i>Roll Call</i>, <i>Salon</i>, <i>La Tercera</i>, <i>Pacific Standard</i>, <i>Democratic Audit</i>, <i>RAISE the Vote</i>, <i>LSE Latin America and Caribbean Centre</i>, and <i>The California Aggie</i>. I have been interviewed on TV stations such as <i>ABC 10</i>, <i>FOX 40</i>, <i>NBC 3</i>, and <i>CBS 13</i> television news in Sacramento to discuss state and national politics as a political scientist. In addition, I have appeared on radio shows like <i>93.1 KFBK</i> and <i> KQED </i> as well as podcasts like <i>Communication Matters</i> and <i>The News Cycle</i> to discuss my research and current events. <br><br>
 
@@ -27,7 +27,7 @@ I also have had the privilege to share my research and expertise with a variety 
 
 <ol>
 
- <li> <a href="http:www.centralcoastequity.org">Towards a Just and Equitable Central Coast</a> - a report by the <i><a href="https://www.blumcenter.ucsb.edu">UCSB Blum Center</a></i>, the <i><a href="https://dornsife.usc.edu/eri">USC Equity Research Institute</a></i>, and <i><a href="https://fundforsantabarbara.org/">The Fund for Santa Barbara.</a></i> (2021)
+ <li> <a href="http://centralcoastequity.org/regional-equity-study/">Towards a Just and Equitable Central Coast</a> - a report by the <i><a href="https://www.blumcenter.ucsb.edu">UCSB Blum Center</a></i>, the <i><a href="https://dornsife.usc.edu/eri">USC Equity Research Institute</a></i>, and <i><a href="https://fundforsantabarbara.org/">The Fund for Santa Barbara.</a></i> (2021)
 
 
 </ol>
@@ -51,6 +51,20 @@ America and Caribbean Centre</i> blog post (2021)
 
 <li> <a href="https://www.huffingtonpost.com/isaac-hale/torture-and-the-rule-of-l_b_814272.html">Torture and the Rule of Law</a> - <i>The Huffington Post</i> op-ed (2011)
 </ol>
+<br>
+
+# Policy Workshops
+
+<ol>
+
+<li> <a href="https://youtu.be/M6P1UN5MKCc">ACT On Homelessness All-Call Meeting </a> - <i>Santa Barbara Alliance for Community Transformation</i> (2022)
+
+<li> <a href="https://youtu.be/yCxKMDU0TRs">The UCSB Housing Crisis </a> - <i>UC Santa Barbara Blum Center</i> (2022)
+
+<li> <a href="https://youtu.be/KILr3LcQ0F0">The Housing Crisis in California & the Central Coast </a> - <i>UC Santa Barbara Blum Center</i> (2022)
+
+</ol>
+
 <br>
 
 # Media Coverage of My Research
@@ -193,6 +207,13 @@ America and Caribbean Centre</i> blog post (2021)
 # Television Interviews
 
 <ol>
+
+<li> <a href="https://www.abc10.com/article/news/politics/kiley-jones-congressional-district-3-endorsement/103-cbdc2a46-13e7-42e1-9b63-4a14b3a5c38a">'Complete and Total Endorsement' | California congressional race intensifies as Trump backs Kiley</a> - <i>ABC 10</i>, Sacramento (2022)
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/isaacdhale/personal_site/raw/master/videos/kiley.mp4" type="video/mp4">
+</video> 
+<br>
 
 
 

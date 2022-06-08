@@ -6,7 +6,7 @@ title: "About Me"
 - __Ocupation:__ Equity Research Postdoctoral Scholar, Blum Center on Poverty, Inequality, and Democracy (UC Santa Barbara)
 - __Research Interests:__ electoral systems, racial politics, legislative representation, political behavior and public opinion.
 
-![headshot](headshot.jpg)
+![](headshot.jpg)
   
 Contact Information:<br>
 Blum Center on Poverty, Inequality, and Democracy <br>
