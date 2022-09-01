@@ -16,7 +16,7 @@ rmarkdown::render_site()
 
 # Add all files to staging areas
 # git add -A
-#the -A flag tells it git you want everything
+#the -A flag tells git you want everything
 
 
 ## Build website locally
