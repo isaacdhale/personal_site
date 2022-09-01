@@ -13,7 +13,7 @@
 
 <title>Isaac Hale’s Webpage</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -318,15 +322,14 @@ Isaac Hale’s Website
 </script>
 </head>
 <p><img src="Headshot.JPG" alt="headshot"></p>
-<p>Welcome to my website! Beginning in the fall of 2022, I will be an
-Assistant Professor of Politics at
+<p>Welcome to my website! I am an Assistant Professor of Politics at
 <a href="https://www.oxy.edu/academics/areas-study/politics">Occidental
-College</a>. I am currently the Equity Research Postdoctoral Scholar at
-<a href="https://www.blumcenter.ucsb.edu/"> UC Santa Barbara’s Blum
-Center on Poverty, Inequality, and Democracy</a>. I received my PhD from
-the <a href="https://ps.ucdavis.edu/">University of California,
-Davis</a> in June 2020. Prior to arriving at UCSB, I served as a
-Lecturer of Political Science at UC Davis.</p>
+College</a>. Prior to arriving at Oxy I was the Equity Research
+Postdoctoral Scholar at <a href="https://www.blumcenter.ucsb.edu/"> UC
+Santa Barbara’s Blum Center on Poverty, Inequality, and Democracy</a>. I
+also served as a Lecturer of Political Science at the
+<a href="https://ps.ucdavis.edu/">University of California, Davis</a>
+from 2020-21. I received my PhD from UC Davis in June 2020.</p>
 <p>My research agenda examines how racial attitudes and the design of
 electoral institutions can undermine representation in the US and other
 developed democracies. I have published several papers analyzing how
@@ -342,10 +345,10 @@ reports, invited blog posts, news coverage of my research, and
 interviews I have done for podcasts/television/newspapers on the
 <a href="https://www.isaacdhale.com/media.html">Public Scholarship</a>
 page.</p>
-<p>In addition to my research, I have also served as a Lecturer and
-Associate Instructor in the UC Davis Department of Political Science. In
-this capacity, I developed and implemented curricula suitable for a
-diverse group of undergraduate students. To access the syllabi and other
+<p>In addition to my research, I have also taught courses as the
+instructor of record at both Occidental College and UC Davis. In this
+capacity, I developed and implemented curricula suitable for a diverse
+group of undergraduate students. To access the syllabi and other
 materials for each class I that have instructed, please visit the
 <a href= "https://www.isaacdhale.com/teaching.html">Teaching</a>
 page.</p>

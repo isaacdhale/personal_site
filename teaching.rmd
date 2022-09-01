@@ -27,11 +27,13 @@ Below you will find links containing syllabi, sample classroom presentations, an
 
  <li> American Politics and Public Policy (Fall 2022) 
  <ul>
-   <br style="line-height:0px;" />
+   <li><a href="syllabi/POLS_101_F2022.pdf">Syllabus</a></li>
+<br style="line-height:0px;" />
  </ul></li>
 
  <li> Research Methods in Politics and Public Policy (Fall 2022) 
  <ul>
+   <li><a href="syllabi/POLS_300_F2022.pdf">Syllabus</a></li>
  <br style="line-height:0px;" />
  </ul></li>
  

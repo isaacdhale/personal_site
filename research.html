@@ -13,7 +13,7 @@
 
 <title>Isaac Hale’s Research</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -335,11 +339,10 @@ University of Georgia</b>
 </p>
 <i>
 <p style="text-align:center">
-<span class="math inline">\(\star\)</span><b>Invited to Revise &amp;
-Resubmit</b><span
-class="math inline">\(\star\)</span><a href="files/GA_Runoffs_(preview).pdf">Working
-Abstract</a> <span
-class="math inline">\(\star\)</span><a href="mailto:idhale@ucdavis.edu">Manuscript
+<span class="math inline">\(\star\)</span>
+<a href="https://doi.org/10.1177%2F1532673X211070819"><b>Manuscript
+Published in <i>American Politics Research</i> (2022)</b></a> <span
+class="math inline">\(\star\)</span><a href="mailto:halei@oxy.edu">Manuscript
 Data Materials</a>
 </p>
 <p></i></p>

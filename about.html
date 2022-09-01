@@ -13,7 +13,7 @@
 
 <title>About Me</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -313,10 +317,9 @@ politics, legislative representation, political behavior and public
 opinion.</li>
 </ul>
 <p><img src="Headshot.JPG" /></p>
-<p>Contact Information:<br> Blum Center on Poverty, Inequality, and
-Democracy <br> University of California, Santa Barbara <br> Girvetz 2317
-<br> Santa Barbara, CA 93106 <br>
-<a href="mailto:ihale@ucsb.edu">ihale@ucsb.edu </a><br></p>
+<p>Contact Information:<br> Dr. Isaac Hale<br> Johnson Hall 308<br>
+Occidental College<br> 1600 Campus Road <br> Los Angeles, CA 90041 <br>
+<a href="mailto:halei@oxy.edu">halei@oxy.edu </a><br></p>
 <a href="https://twitter.com/IsaacHale?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow
 <span class="citation">@IsaacHale</span></a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

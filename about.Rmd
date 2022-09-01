@@ -9,11 +9,12 @@ title: "About Me"
 ![](headshot.jpg)
   
 Contact Information:<br>
-Blum Center on Poverty, Inequality, and Democracy <br>
-University of California, Santa Barbara <br>
-Girvetz 2317 <br>
-Santa Barbara, CA 93106 <br>
-<a href="mailto:ihale@ucsb.edu">ihale@ucsb.edu </a><br>
+Dr. Isaac Hale<br>
+Johnson Hall 308<br>
+Occidental College<br>
+1600 Campus Road <br>
+Los Angeles, CA 90041 <br>
+<a href="mailto:halei@oxy.edu">halei@oxy.edu </a><br>
 
 <a href="https://twitter.com/IsaacHale?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @IsaacHale</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
