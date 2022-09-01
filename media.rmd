@@ -131,6 +131,36 @@ America and Caribbean Centre</i> blog post (2021)
 <ol>
 
 <li> <figure>
+    <figcaption><a href="https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/sports-betting-trans-kids-sterilization-holocaust-baking/prop-26-27">Could CA become one of the biggest sports betting markets in the world?</a> - <i>KCRW</i>, Santa Monica (2022)</figcaption>
+    <audio
+        controls
+        src="https://github.com/isaacdhale/personal_site/raw/master/audio/KCRW_26_27.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+<br>
+
+
+
+
+<li> <figure>
+    <figcaption><a href="https://omny.fm/shows/kcbsam-on-demand/expert-clarifies-difference-between-ca-proposition">Expert clarifies difference between CA Propositions 26 and 27 </a> - <i>KCBS Radio</i>, San Francisco (2022)</figcaption>
+    <audio
+        controls
+        src="https://github.com/isaacdhale/personal_site/raw/master/audio/KCBS_26_27.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+<br>
+
+
+
+
+<li> <figure>
     <figcaption><a href="https://www.kqed.org/forum/2010101885507/statewide-election-special-the-2021-california-gubernatorial-recall-2">Statewide Election Special: The 2021 California Gubernatorial Recall</a> - <i>Forum (KQED-FM)</i>, San Francisco (2021)</figcaption>
     <audio
         controls
