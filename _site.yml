@@ -14,7 +14,7 @@ navbar:
     - text: "Public Scholarship"
       href: media.html
     - text: "Blog (external)"
-      href: www.isaacdhale.wordpress.com  
+      href: https://www.isaacdhale.wordpress.com  
   right:
     - icon: fas fa-envelope
       href: mailto:halei@oxy.edu
