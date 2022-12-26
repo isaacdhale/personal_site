@@ -1,8 +1,8 @@
 rm(list=ls())
 
-setwd("C:\\Users\\Isaac\\Google Drive\\Website\\Attempt_2\\personal_site")
+setwd("C:\\Users\\halei\\My Drive\\Website\\Attempt_2\\personal_site")
 
-#install.packages("rmarkdown", type = "source")
+# install.packages("rmarkdown", type = "source")
 library(rmarkdown)
 library(knitr)
 
@@ -12,7 +12,7 @@ rmarkdown::render_site()
 ####Useful Terminal commands
 
 # Set WD
-# cd "C:\Users\Isaac\Google Drive\Website\Attempt_2\personal_site"
+# cd "C:\Users\halei\Google Drive\Website\Attempt_2\personal_site"
 
 # Add all files to staging areas
 # git add -A
@@ -27,5 +27,5 @@ rmarkdown::render_site()
 # git push --force
 
 #To create a blank file
-# touch X.rmd 
-# touch Y.css
+# touch X.rmd
+touch Y.css
