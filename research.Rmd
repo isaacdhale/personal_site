@@ -19,13 +19,28 @@ title: "Isaac Hale's Research"
 
 <font size="+3"><b>Published Articles</b></font>
 
+<i><p style="text-align:center">Cumulative Pre-election COVID-19 Deaths, by County</p></i>
+
+![](covid_deaths_2020_map.png)
+
+<p style="text-align:center"><b>Nail in the Coffin or Lifeline? Evaluating the Electoral Impact of COVID-19 on President Trump in the 2020 Election<br> with <a href="https://calgara.github.io">Carlos Algara</a>, Assistant Professor of Political Science, Claremont Graduate University <br> <a href="https://www.sharifamlani.com/home"> Sharif Amlani</a>, PhD candidate, Political Science,  University of California, Davis</b> <br> <a href="https://www.committee100.org/staff/sam-collitt/"> Samuel Collitt </a>, Researcher, <b>Committee of 100</b> <br>  & <a href="https://www.sarakazemian.com/home">Sara Kazemian</a>, <b> PhD candidate, Political Science,  University of California, Davis</b></p>
+
+<i><p style="text-align:center">\(\star\) <a href="https://doi.org/10.1007/s11109-022-09826-x"><b>Manuscript Published in <i>Political Behavior</i> (2022)</b></a> \(\star\) <a href="mailto:halei@oxy.edu">Manuscript Data Materials</a></p></i>
+
+</i>
+<br>
+<i>Abstract</i>:From the onset of the first confirmed case of COVID-19 in January 2020 to Election Day in November, the United States experienced over 9,400,000 cases and 232,000 deaths. This crisis largely defined the campaign between former Vice President Joe Biden and President Donald Trump, centering on the Trump administration′s efforts in mitigating the number of cases and deaths. While conventional wisdom suggested that Trump and his party would lose support due to the severity of COVID-19 across the country, such an effect is hotly debated empirically and theoretically. In this research, we evaluate the extent to which the severity of the COVID-19 pandemic influenced support for President Trump in the 2020 election. Across differing modeling strategies and a variety of data sources, we find evidence that President Trump gained support in counties with higher COVID-19 deaths. We provide an explanation for this finding by showing that voters concerned about the economic impacts of pandemic-related restrictions on activity were more likely to support Trump and that local COVID-19 severity was predictive of these economic concerns. While COVID-19 likely contributed to Trump’s loss in 2020, our analysis demonstrates that he gained support among voters in localities worst affected by the pandemic.
+
+
+<br>
+<br>
 
 
 <i><p style="text-align:center">Strength of Partisanship in Direct-Elections for U.S. Senate, 1914-2020</p></i>
 
 ![](GA_Figure_1.png)
 
-<p style="text-align:center"><b>Do Voters Balance Partisan Control of the Federal Government During the Partisan Era? Assessing the Case of the 2021 Georgia U.S. Senate Runoffs<br> with <a href="https://calgara.github.io">Carlos Algara</a>, Assistant Professor of Political Science, Claremont Graduate University & <br>  <a href="https://corystruthers.weebly.com/">Cory Struthers</a>, Assistant Professor of Public Administration and Policy, University of Georgia</b></p>
+<p style="text-align:center"><b>Do Voters Balance Partisan Control of the Federal Government During the Partisan Era? Assessing the Case of the 2021 Georgia U.S. Senate Runoffs<br> with <a href="https://calgara.github.io">Carlos Algara</a>, Assistant Professor of Political Science, Claremont Graduate University  <br> &  <a href="https://corystruthers.weebly.com/">Cory Struthers</a>, Assistant Professor of Public Administration and Policy, University of Georgia</b></p>
 
 <i><p style="text-align:center">\(\star\) <a href="https://doi.org/10.1177%2F1532673X211070819"><b>Manuscript Published in <i>American Politics Research</i> (2022)</b></a> \(\star\)<a href="mailto:halei@oxy.edu">Manuscript Data Materials</a></p></i>
 
@@ -44,7 +59,7 @@ title: "Isaac Hale's Research"
 
 <p style="text-align:center"><b>Electoral Reform & Strategic Voting in Chilean Legislative Elections</b></p>
 
-<i><p style="text-align:center">\(\star\) <a href="https://doi.org/10.1080/00344893.2021.1964585"><b>Manuscript Published in <i>Representation</i> (2021)</b></a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p></i>
+<i><p style="text-align:center">\(\star\) <a href="https://doi.org/10.1080/00344893.2021.1964585"><b>Manuscript Published in <i>Representation</i> (2021)</b></a> \(\star\)<a href="mailto:halei@oxy.edu">Manuscript Data Materials</a></p></i>
 
 
 </i>
@@ -63,7 +78,7 @@ title: "Isaac Hale's Research"
   
 <p style="text-align:center"><b>Racial attitudes & political cross-pressures in nationalized elections: The case of the Republican coalition in the Trump era <br> with <a href="https://calgara.github.io">Carlos Algara</a>, Assistant Professor of Political Science, Claremont Graduate University</b></p>
 
-<i><p style="text-align:center">\(\star\) <a href="https://www.sciencedirect.com/science/article/pii/S0261379420300901">Manuscript Published in Electoral Studies (2020)</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p></i>
+<i><p style="text-align:center">\(\star\) <a href="https://www.sciencedirect.com/science/article/pii/S0261379420300901">Manuscript Published in Electoral Studies (2020)</a> \(\star\)<a href="mailto:halei@oxy.edu">Manuscript Data Materials</a></p></i>
 
 <p style="text-align:center">\(\star\)<b>Research featured in <i>The New York Times</i>, <i>The Texas Tribune</i>, <i>The Sacramento Bee</i>, <i>Roll Call</i>, <i>La Croix</i>, and APSA's <i>RAISE the Vote</i> blog.</b></p>
 
@@ -79,7 +94,7 @@ title: "Isaac Hale's Research"
   
 <p style="text-align:center"><b>Candidate Extremism and Electoral Design in U.S. State Legislative Elections</b></p>
 
-<p style="text-align:center">\(\star\)<i><a href="https://doi.org/10.1111/ssqu.12749">Manuscript Published in Social Science Quarterly (2019)</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p></i>
+<p style="text-align:center">\(\star\)<i><a href="https://doi.org/10.1111/ssqu.12749">Manuscript Published in Social Science Quarterly (2019)</a> \(\star\)<a href="mailto:halei@oxy.edu">Manuscript Data Materials</a></p></i>
 
 <i>Abstract</i>: This study examines the effect of electoral system variation in U.S. state legislative elections on candidate ideological dispersion. Previous work suggests that, under certain conditions, greater district magnitude has a centrifugal polarizing effect on candidate ideology. Cross-national investigations of this theory by Ezrow (2008) and Dow (2001, 2011) have produced conflicting results. Building on this body of research, this paper leverages electoral system variation in U.S. state legislative elections to evaluate whether district-level electoral system variation influences candidate ideology. We find strong evidence for a polarizing effect of district magnitude on candidate ideology, even under plurality voting. This paper has significant implications for our understanding of candidate ideological positioning in sub-national contexts as well of how electoral systems affect the quality of representation voters receive from legislators.
 
@@ -94,7 +109,7 @@ title: "Isaac Hale's Research"
 
 <p style="text-align:center"><b>Abandon Ship? An Analysis of Strategic Voting among Liberal Democrat Voters in the 2015 UK Election</b></p>
 
-<p style="text-align:center">\(\star\)<i><a href="https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz007/5365507">Manuscript Published in Parliamentary Affairs (2019)</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p></i>
+<p style="text-align:center">\(\star\)<i><a href="https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz007/5365507">Manuscript Published in Parliamentary Affairs (2019)</a> \(\star\)<a href="mailto:halei@oxy.edu">Manuscript Data Materials</a></p></i>
 
 <p style="text-align:center">\(\star\)<b>Research featured in the London School of Economics' <i>Democratic Audit</i> blog.</b></p>
 
@@ -111,7 +126,7 @@ title: "Isaac Hale's Research"
   
 <p style="text-align:center"><b>The Compound Effects of Candidate Race and Racial Resentment in US House Elections</b></p>
 
-<i><p style="text-align:center">\(\star\)<a href="https://dx.doi.org/10.1017/rep.2019.34">Manuscript Published in The Journal of Race, Ethnicity, and Politics (2019)</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p></i>
+<i><p style="text-align:center">\(\star\)<a href="https://dx.doi.org/10.1017/rep.2019.34">Manuscript Published in The Journal of Race, Ethnicity, and Politics (2019)</a> \(\star\)<a href="mailto:halei@oxy.edu">Manuscript Data Materials</a></p></i>
 
 <i>Abstract</i>:  Despite the longstanding underrepresentation of blacks in Congress, political science research has not settled on the cause. While there is increasing evidence that racial attitudes affect vote choice in today's congressional elections, how this effect interacts with the race of the candidates is unknown. This study addresses this debate by analyzing novel survey, census, and candidate data from the Obama era of congressional elections (2010-2016) in order to test whether racially prejudiced attitudes held by whites decrease their likelihood of supporting black Democratic candidates and Democratic candidates as a whole. In line with theoretical predictions, this paper finds that Democratic House candidates are less likely to receive votes among white voters with strong racial resentment towards blacks, and black Democratic candidates fare even worse. These findings provide an explanation for black legislative underrepresentation and contribute to theories of partisan racial realignment.
 
@@ -125,7 +140,7 @@ title: "Isaac Hale's Research"
   
 <p style="text-align:center"><b>The Distorting Effects of Racial Animus on Proximity Voting in the 2016 Elections <br> with <a href="https://calgara.github.io">Carlos Algara</a>, Assistant Professor of Political Science, Claremont Graduate University</b></p>
 
-<i><p style="text-align:center">\(\star\)<a href="https://doi.org/10.1016/j.electstud.2019.02.001">Manuscript Published in Electoral Studies (2019)</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p>
+<i><p style="text-align:center">\(\star\)<a href="https://doi.org/10.1016/j.electstud.2019.02.001">Manuscript Published in Electoral Studies (2019)</a> \(\star\)<a href="mailto:halei@oxy.edu">Manuscript Data Materials</a></p>
 
 <p style="text-align:center">\(\star\)<b>Research featured in <i>The New York Times</i>, <i>Pacific Standard</i>, and <i>La Tercera</i>.</b></p>
 
@@ -141,9 +156,9 @@ title: "Isaac Hale's Research"
 
 ![](top2_b.PNG)
 
-<p style="text-align:center"><b>Some General Consequences of California's Top-Two Primary System <br> with <a href="https://ps.ucdavis.edu/people/bhighton">Benjamin Highton</a>, Professor of Political Science, University of California, Davis & <br>  <a href="https://ps.ucdavis.edu/people/huckfeld">Robert Huckfeldt</a>, Distinguished Professor of Political Science, University of California, Davis </b></p>
+<p style="text-align:center"><b>Some General Consequences of California's Top-Two Primary System <br> with <a href="https://ps.ucdavis.edu/people/bhighton">Benjamin Highton</a>, Professor of Political Science, University of California, Davis  <br> & <a href="https://ps.ucdavis.edu/people/huckfeld">Robert Huckfeldt</a>, Distinguished Professor of Political Science, University of California, Davis </b></p>
 
-<i><p style="text-align:center">\(\star\)<a href="https://escholarship.org/uc/item/5zt6b4r1">Manuscript Published in the California Journal of Politics and Policy (2016)</a> \(\star\)<a href="mailto:idhale@ucdavis.edu">Manuscript Data Materials</a></p></i>
+<i><p style="text-align:center">\(\star\)<a href="https://escholarship.org/uc/item/5zt6b4r1">Manuscript Published in the California Journal of Politics and Policy (2016)</a> \(\star\)<a href="mailto:halei@oxy.edu">Manuscript Data Materials</a></p></i>
 
 <i>Abstract</i>: This paper analyzes some of the general election consequences of the top-two primary system in California elections beginning in 2012. In particular we focus on general election contests between candidates of the same party that were not possible under the previous primary system, but have occurred with some regularity with the top-two.We find that same party elections are characterized by greater competitiveness, lower turnout, and less, but still substantial, polarized voting.
 
