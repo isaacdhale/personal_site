@@ -23,7 +23,7 @@ title: "Isaac Hale's Research"
 
 ![](covid_deaths_2020_map.png)
 
-<p style="text-align:center"><b>Nail in the Coffin or Lifeline? Evaluating the Electoral Impact of COVID-19 on President Trump in the 2020 Election<br> with <a href="https://calgara.github.io">Carlos Algara</a>, Assistant Professor of Political Science, Claremont Graduate University <br> <a href="https://www.sharifamlani.com/home"> Sharif Amlani</a>, PhD candidate, Political Science,  University of California, Davis</b> <br> <a href="https://www.committee100.org/staff/sam-collitt/"> Samuel Collitt </a>, Researcher, <b>Committee of 100</b> <br>  & <a href="https://www.sarakazemian.com/home">Sara Kazemian</a>, <b> PhD candidate, Political Science,  University of California, Davis</b></p>
+<p style="text-align:center"><b>Nail in the Coffin or Lifeline? Evaluating the Electoral Impact of COVID-19 on President Trump in the 2020 Election<br> with <a href="https://calgara.github.io">Carlos Algara</a>, Assistant Professor of Political Science, Claremont Graduate University <br> <a href="https://www.sharifamlani.com/home"> Sharif Amlani</a>, PhD candidate, Political Science,  University of California, Davis</b> <br> <a href="https://www.committee100.org/staff/sam-collitt/"> Samuel Collitt </a><b> , Researcher, Committee of 100</b> <br>  <b>&</b> <a href="https://www.sarakazemian.com/home">Sara Kazemian</a>, <b> PhD candidate, Political Science,  University of California, Davis</b></p>
 
 <i><p style="text-align:center">\(\star\) <a href="https://doi.org/10.1007/s11109-022-09826-x"><b>Manuscript Published in <i>Political Behavior</i> (2022)</b></a> \(\star\) <a href="mailto:halei@oxy.edu">Manuscript Data Materials</a></p></i>
 
