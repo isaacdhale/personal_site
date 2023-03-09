@@ -3,10 +3,10 @@ title: "About Me"
 ---
 
 - __Name:__ Isaac Hale
-- __Ocupation:__ Equity Research Postdoctoral Scholar, Blum Center on Poverty, Inequality, and Democracy (UC Santa Barbara)
+- __Ocupation:__ Assistant Professor of Politics, Occidental College
 - __Research Interests:__ electoral systems, racial politics, legislative representation, political behavior and public opinion.
 
-![](headshot_2.jpg)
+![](headshot2.jpg)
   
 Contact Information:<br>
 Dr. Isaac Hale<br>
