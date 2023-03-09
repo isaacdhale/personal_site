@@ -6,7 +6,7 @@ title: "About Me"
 - __Ocupation:__ Assistant Professor of Politics, Occidental College
 - __Research Interests:__ electoral systems, racial politics, legislative representation, political behavior and public opinion.
 
-![](headshot2.jpg)
+![](headshot2.png)
   
 Contact Information:<br>
 Dr. Isaac Hale<br>
