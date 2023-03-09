@@ -6,7 +6,7 @@ title: "About Me"
 - __Ocupation:__ Equity Research Postdoctoral Scholar, Blum Center on Poverty, Inequality, and Democracy (UC Santa Barbara)
 - __Research Interests:__ electoral systems, racial politics, legislative representation, political behavior and public opinion.
 
-![](headshot.jpg)
+![](headshot_2.jpg)
   
 Contact Information:<br>
 Dr. Isaac Hale<br>
@@ -19,7 +19,7 @@ Los Angeles, CA 90041 <br>
 <a href="https://twitter.com/IsaacHale?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @IsaacHale</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-Copyright © 2017-2022 by Isaac Hale. Made with RStudio
+Copyright © 2017-2023 by Isaac Hale. Made with RStudio
 
 <br>
   

@@ -25,6 +25,18 @@ Below you will find links containing syllabi, sample classroom presentations, an
 
 <ol>
 
+ <li> Research Methods in Politics and Public Policy (Spring 2023) 
+ <ul>
+ <li><a href="syllabi/oxy/POLS_300_S2023_final.pdf">Syllabus</a></li>
+ <br style="line-height:0px;" />
+ </ul></li>
+ 
+ <li> The American Presidency (Spring 2023) 
+ <ul>
+   <li><a href="syllabi/oxy/POLS_302_S2023_final.pdf">Syllabus</a></li>
+<br style="line-height:0px;" />
+ </ul></li>
+
  <li> American Politics and Public Policy (Fall 2022) 
  <ul>
    <li><a href="syllabi/oxy/POLS_101_F2022_final.pdf">Syllabus</a></li>
@@ -45,6 +57,8 @@ Below you will find links containing syllabi, sample classroom presentations, an
  <li> Electoral Systems (Spring 2021) 
  <ul>
    <li><a href="syllabi/POL_140A_2021.pdf">Syllabus</a></li>
+        <li><a href="evals/Hale Teaching Eval - POL 140A (Spring 2021).pdf">University Course Evaluations</a></li>
+
    <li><a href="presentations/POL 140A - Proportional Representation (Spring 2021).pdf">Sample Classroom Presentation</a></li>
    <li><i>Course delivered online due to COVID-19</i></li>
    <br style="line-height:0px;" />
@@ -53,6 +67,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li> Introduction to Comparative Politics (Spring 2021) 
   <ul>
   <li><a href="syllabi/POL_002_2021_Spring.pdf">Syllabus</a></li>
+    <li><a href="evals/Hale Teaching Eval - POL 002 (Spring 2021).pdf">University Course Evaluations</a></li>
   <li><a href="presentations/POL 002 - Presidentialism and Parliamentarism 1 (Spring 2021).pdf">Sample Classroom Presentation</a></li>
   <li><i>Course delivered online due to COVID-19</i></li>
   <br style="line-height:0px;" />
@@ -61,6 +76,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
  <li>The Legislative Process (Winter 2021) 
  <ul>
    <li><a href="syllabi/pol_105_2021_Winter.pdf">Syllabus</a></li>
+      <li><a href="evals/Hale Teaching Eval - POL 105 (Winter 2021).pdf">University Course Evaluations</a></li>
    <li><a href="presentations/POL 105 - The Electoral Connection (Winter 2021).pdf">Sample Classroom Presentation</a></li>
    <li><i>Course delivered online due to COVID-19</i></li>
    <br style="line-height:0px;" />
@@ -69,6 +85,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li>The Presidency (Winter 2021) 
   <ul>
   <li><a href="syllabi/pol_106_2021_Winter.pdf">Syllabus</a></li>
+    <li><a href="evals/Hale Teaching Eval - POL 106 (Winter 2021).pdf">University Course Evaluations</a></li>
   <li><a href="presentations/POL 106 - The Invisible Primary (Winter 2021).pdf">Sample Classroom Presentation</a></li>
   <li><i>Course delivered online due to COVID-19</i></li>
   <br style="line-height:0px;" />
@@ -78,6 +95,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
  <li>The 2020 Election: America Decides (Fall 2020) 
  <ul>
    <li><a href="syllabi/pol_11A_2020.pdf">Syllabus</a></li>
+      <li><a href="evals/Hale Teaching Eval - POL 11A (Fall 2020).pdf">University Course Evaluations</a></li>
     <li><a href="presentations/POL 11A - Election Preview (Fall 2020).pdf">Sample Classroom Presentation</a></li>
    <li><i>Course delivered online due to COVID-19</i></li>
    <br style="line-height:0px;" />
@@ -86,6 +104,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
  <li>Introduction to Comparative Politics (Fall 2020) 
  <ul>
    <li><a href="syllabi/pol_002_2020.pdf">Syllabus</a></li>
+   <li><a href="evals/Hale Teaching Eval - POL 002 (Fall 2020).pdf">University Course Evaluations</a></li>
    <li><a href="presentations/POL 2 - Chile Country Case (Fall 2020).pdf">Sample Classroom Presentation</a></li>
    <li><i>Course delivered online due to COVID-19</i></li>
    <br style="line-height:0px;" />
@@ -94,6 +113,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
  <li>The Legislative Process (Summer 2020) 
  <ul>
    <li><a href="syllabi/pol_105_2020_SS2.pdf">Syllabus</a></li>
+   <li><a href="evals/Hale Teaching Eval - POL 105 (Summer 2020).pdf">University Course Evaluations</a></li>
    <li><a href="presentations/POL105 - Is Congress Broken (Summer 2020).pdf">Sample Classroom Presentation</a></li>
    <li><i>Course delivered online due to COVID-19</i></li>
    <br style="line-height:0px;" />
@@ -102,6 +122,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li>The Presidency (Summer 2020) 
   <ul>
   <li><a href="syllabi/pol_106_2020_SS1.pdf">Syllabus</a></li>
+  <li><a href="evals/Hale Teaching Eval - POL 106 (Summer 2020).pdf">University Course Evaluations</a></li>
   <li><a href="presentations/POL 106 - Rethinking Electoral Institutions.pdf">Sample Classroom Presentation</a></li>
   <li><i>Course delivered online due to COVID-19</i></li>
   <br style="line-height:0px;" />
@@ -115,6 +136,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li>The Presidency (Spring 2020) 
   <ul>
   <li><a href="syllabi/pol_106_2020_Spring.pdf">Syllabus</a></li>
+  <li><a href="evals/Hale Teaching Eval - POL 106 (Spring 2020).pdf">University Course Evaluations</a></li>
   <li><a href="presentations/POL 106 - The Presidential Election 1.pdf">Sample Classroom Presentation</a></li>
   <li><i>Course delivered online due to COVID-19</i></li>
   <br style="line-height:0px;" />
@@ -123,6 +145,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li>The Legislative Process (Winter 2019) 
   <ul>
   <li><a href="syllabi/pol_105_2019.pdf">Syllabus</a></li>
+  <li><a href="evals/Hale Teaching Eval - POL 105 (Winter 2019).pdf">University Course Evaluations</a></li>
   <li><a href="presentations/Congress & The Courts.pdf">Sample Classroom Presentation</a></li>
   <br style="line-height:0px;" />
   </ul></li>
@@ -130,6 +153,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li>Introduction to Comparative Politics (Summer 2018)
   <ul>
   <li><a href="syllabi/pol_002_2018.pdf">Syllabus</a></li>
+  <li><a href="evals/Hale Teaching Eval - POL 002 (Summer 2018).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/Country Cases - Canada + UK + NZ.pdf">Sample Classroom Presentation</li></a>
   <br style="line-height:0px;" />
   </ul></li>
@@ -137,6 +161,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li>Introduction to American Politics (Winter 2018)
   <ul>
   <li><a href="syllabi/pol_001_2018.pdf">Syllabus</a></li>
+  <li><a href="evals/Hale Teaching Eval - POL 001 (Winter 2018).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/Party Polarization.pdf">Sample Classroom Presentation</li></a>
   <br style="line-height:0px;" />
   </ul></li>
@@ -144,6 +169,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li>Introduction to American Politics (Fall 2017)
   <ul>
   <li><a href="syllabi/pol_001_2017.pdf">Syllabus</a></li>
+   <li><a href="evals/Hale Teaching Eval - POL 001 (Fall 2017).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/Elections + Voting Choice.pdf">Sample Classroom Presentation</li></a>
   <br style="line-height:0px;" />
   </ul></li>
@@ -151,6 +177,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li>Introduction to Comparative Politics (Summer 2017)
   <ul>
   <li><a href="syllabi/pol_002_2017.pdf">Syllabus</a></li>
+    <li><a href="evals/Hale Teaching Eval - POL 002 (Summer 2017).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/Electoral Systems I.pdf">Sample Classroom Presentation</li></a>
   <br style="line-height:0px;" />
   </ul></li>
@@ -162,6 +189,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
    <li>Eastern European Democratization (Winter 2020)
   <ul>
   <li><a href="syllabi/TA_pol_144A_2020.pdf">Syllabus (Josephine Andrews)</a></li>
+   <li><a href="evals/Hale Teaching Eval - POL 144A (Winter 2020).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/POL 144A Section 5 Slides.pdf">Sample Section Presentation</a></li>
   <br style="line-height:0px;" />
   </ul></li>
@@ -169,6 +197,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li>The Scientific Study of Politics (Fall 2018)
   <ul>
   <li><a href="syllabi/TA_pol_051_2018.pdf">Syllabus (Bradford Jones)</a></li>
+  <li><a href="evals/Hale Teaching Eval - POL 051 (Fall 2018).pdf">University Course Evaluations</li></a>
   <li><a href="code/Isaac Code - Week 4 Section.R">Sample Section R Code</a></li>
   <br style="line-height:0px;" />
   </ul></li>
@@ -176,6 +205,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li>Introduction to American Politics (Spring 2018)
   <ul>
   <li><a href="syllabi/TA_pol_001_2018.pdf">Syllabus (Benjamin Highton)</a></li>
+   <li><a href="evals/Hale Teaching Eval - POL 001 (Spring 2018).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/Final Exam Review.pdf">Sample Section Presentation</a></li>
   <br style="line-height:0px;" />
   </ul></li>
@@ -183,6 +213,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li>Problems in American Politics (Fall 2016)
   <ul>
   <li><a href="syllabi/TA_pol_005_2016.pdf">Syllabus (Amber Boydstun)</a></li>
+  <li><a href="evals/Hale Teaching Eval - POL 005 (Fall 2016).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/POL 005 2016 Post-Election Slides.pdf">Sample Section Presentation</a></li>
   <br style="line-height:0px;" />
   </ul></li>
@@ -190,6 +221,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li>The American Presidency (Summer 2016)
   <ul>
   <li><a href="syllabi/TA_pol_106_2016.pdf">Syllabus (Amber Boydstun)</a></li>
+  <li><a href="evals/Hale Teaching Eval - POL 106 (Summer 2016).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/POL106 Journal Workshop 02 Slides.pdf">Sample Section Presentation</a></li>
   <br style="line-height:0px;" />
   </ul></li>
@@ -197,6 +229,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li>The Scientific Study of Politics (Winter 2016)
   <ul>
   <li><a href="syllabi/TA_pol_051_2016.pdf">Syllabus (Bradford Jones)</a></li>
+  <li><a href="evals/Hale Teaching Eval - POL 051 (Winter 2016).pdf">University Course Evaluations</li></a>
   <li><a href="code/Isaac Code - Week 9 Section.R">Sample Section R Code</a></li>
   <br style="line-height:0px;" />
   </ul></li>
@@ -210,12 +243,14 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li>California State Government and Politics (Fall 2019)
   <ul>
   <li><a href="syllabi/TA_pol_104_2019.pdf">Syllabus (Scott MacKenzie)</a></li>
+   <li>Evaluations not available due to admnistrative error</li>
   <br style="line-height:0px;" />
   </ul></li>
 
   <li>French Politics (Spring 2019)
   <ul>
   <li><a href="syllabi/TA_pol_147C_2019.pdf">Syllabus (James Adams)</a></li>
+  <li><a href="evals/Hale Teaching Eval - POL 147C (Spring 2019).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/EU Election Lecture (Hale).pdf">Guest Lecture Presentation</a></li>
   <br style="line-height:0px;" />
   </ul></li>
@@ -223,12 +258,14 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li>Russian Politics (Spring 2017)
   <ul>
   <li><a href="syllabi/TA_pol_144B_2017.pdf">Syllabus (Josephine Andrews)</a></li>
+   <li><a href="evals/Hale Teaching Eval - POL 144B (Spring 2017).pdf">University Course Evaluations</li></a>
   <br style="line-height:0px;" />
   </ul></li>
   
   <li>Electoral Systems (Winter 2017)
   <ul>
   <li><a href="syllabi/TA_pol_140A_2017.pdf">Syllabus (Matthew Shugart)</a></li>
+  <li><a href="evals/Hale Teaching Eval - POL 140A (Winter 2017).pdf">University Course Evaluations</li></a>
   <li><a href="presentations/Electoral Systems Guest Lecture.pdf">Guest Lecture Presentation</a></li>
   <br style="line-height:0px;" />
   </ul></li>
@@ -236,12 +273,14 @@ Below you will find links containing syllabi, sample classroom presentations, an
   <li>Judicial Politics (Spring 2016)
   <ul>
   <li><a href="syllabi/TA_pol_150_2016.pdf">Syllabus (Jeremy Fortier)</a></li>
+    <li><a href="evals/Hale Teaching Eval - POL 150 (Spring 2016).pdf">University Course Evaluations</li></a>
   <br style="line-height:0px;" />
   </ul></li>
  
   <li>British Politics (Fall 2015)
   <ul>
   <li><a href="syllabi/TA_pol_147B_2015.pdf">Syllabus (James Adams)</a></li>
+   <li><a href="evals/Hale Teaching Eval - POL 147B (Fall 2015).pdf">University Course Evaluations</li></a>
   <br style="line-height:0px;" />
   </ul></li>
   
