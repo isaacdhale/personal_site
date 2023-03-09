@@ -21,7 +21,7 @@ title: "Isaac Hale's Research"
 
 <i><p style="text-align:center">Cumulative Pre-election COVID-19 Deaths, by County</p></i>
 
-![](covid_deaths_2020_map.png)
+![](covid_deaths_2020_map.PNG)
 
 <p style="text-align:center"><b>Nail in the Coffin or Lifeline? Evaluating the Electoral Impact of COVID-19 on President Trump in the 2020 Election<br> with <a href="https://calgara.github.io">Carlos Algara</a>, Assistant Professor of Political Science, Claremont Graduate University <br> <a href="https://www.sharifamlani.com/home"> Sharif Amlani</a>, PhD candidate, Political Science,  University of California, Davis</b> <br> <a href="https://www.committee100.org/staff/sam-collitt/"> Samuel Collitt </a><b> , Researcher, Committee of 100</b> <br>  <b>&</b> <a href="https://www.sarakazemian.com/home">Sara Kazemian</a>, <b> PhD candidate, Political Science,  University of California, Davis</b></p>
 
