@@ -49,7 +49,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
  <ul>
  <li><a href="syllabi/oxy/POLS_300_F2022_final.pdf">Syllabus</a></li>
     <li><a href="evals/Oxy/Hale_Eval_POLS300_F2022.pdf">College Course Evaluations</a></li>
-    <li><a href="presentations/Oxy/POLS300_F2022_slides.pdf.pdf">Sample Classroom Presentation</a></li>
+    <li><a href="presentations/Oxy/POLS300_F2022_slides.pdf">Sample Classroom Presentation</a></li>
  <br style="line-height:0px;" />
  </ul></li>
  
