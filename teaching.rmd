@@ -25,15 +25,20 @@ Below you will find links containing syllabi, sample classroom presentations, an
 
 <ol>
 
- <li> Research Methods in Politics and Public Policy (Spring 2023) 
+<li> Research Methods in Politics and Public Policy (Spring 2023) 
  <ul>
  <li><a href="syllabi/oxy/POLS_300_S2023_final.pdf">Syllabus</a></li>
+    <li><a href="evals/Oxy/Hale_Eval_POLS300_S2023.pdf">College Course Evaluations</a></li>
+    <li><a href="presentations/Oxy/POLS 300 - Political Science Datasets.pdf">Sample Classroom Presentation</a></li>
  <br style="line-height:0px;" />
  </ul></li>
  
- <li> The American Presidency (Spring 2023) 
+<li> The American Presidency (Spring 2023) 
  <ul>
-   <li><a href="syllabi/oxy/POLS_302_S2023_final.pdf">Syllabus</a></li>
+  <li><a href="syllabi/oxy/POLS_302_S2023_final.pdf">Syllabus</a></li>
+  <li><a href="evals/Oxy/Hale_Eval_POLS302_S2023.pdf">College Course Evaluations</a></li>
+      <li><a href="presentations/Oxy/POLS 302 - Caucuses & Primaries.pdf">Sample Classroom Presentation</a></li>
+
 <br style="line-height:0px;" />
  </ul></li>
 
