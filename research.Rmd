@@ -17,7 +17,7 @@ title: "Isaac Hale's Research"
 </head>
 
 
-<font size="+3"><b>Published Articles</b></font>
+<font size="+3"><b>Peer-Reviewed Publications</b></font>
 
 <i><p style="text-align:center">Cumulative Pre-election COVID-19 Deaths, by County</p></i>
 

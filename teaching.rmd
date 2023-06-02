@@ -37,7 +37,7 @@ Below you will find links containing syllabi, sample classroom presentations, an
  <ul>
   <li><a href="syllabi/oxy/POLS_302_S2023_final.pdf">Syllabus</a></li>
   <li><a href="evals/Oxy/Hale_Eval_POLS302_S2023.pdf">College Course Evaluations</a></li>
-    <li><a href="presentations/Oxy/POLS 302 - Caucuses and Primaries">Sample Classroom Presentation</a></li>
+    <li><a href="presentations/Oxy/POLS 302 - Caucuses and Primaries.pdf">Sample Classroom Presentation</a></li>
 
 <br style="line-height:0px;" />
  </ul></li>
