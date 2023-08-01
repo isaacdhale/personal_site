@@ -19,11 +19,10 @@ title: "Isaac Hale's Public Scholarship"
 <font size="+3"><b>Public Scholarship</b></font>
 
 
-Public scholarship improves academic research, generates public interest in our work, and communicates the substantive importance of our research to policymakers and voters. In my current position at Occidental College I have contributed to initiatives to enact electoral reform in the US and Canada. In my previous position at the UCSB Blum Center, I was part of an interdisciplinary team of academics, researchers, and community organizations from across California who have recently released <a href = "https://centralcoastequity.org/regional-equity-study/"><i> Towards a Just and Equitable Central Coast</i></a> which is a report on racial, gender, immigration, and economic inequality in the state’s Central Coast region. In this capacity I also led and participated in several online policy workshops on the California housing crisis. <br><br>
-
+Public scholarship improves academic research, generates public interest in our work, and communicates the substantive importance of our research to policymakers and voters. In my current position at Occidental College I have contributed to initiatives to enact electoral reform in the US and Canada. In my previous position at the UCSB Blum Center, I was part of an interdisciplinary team of academics, researchers, and community organizations from across California who have recently released <a href = "https://centralcoastequity.org/regional-equity-study/"><i> Towards a Just and Equitable Central Coast</i></a> which is a report on racial, gender, immigration, and economic inequality in the state’s Central Coast region. In this capacity I also led and participated in several online policy workshops on the California housing crisis. 
 
 I have had the privilege to share my research and expertise with a variety of public-facing media outlets. My research has been featured in <i>The New York Times</i>, <i>The Sacramento Bee</i>,  <i>The Texas Tribune</i>, <i>SF Gate</i>, <i>Roll Call</i>, <i>Salon</i>, <i>La Tercera</i>, <i>Pacific Standard</i>, <i>Democratic Audit</i>, <i>RAISE the Vote</i>, <i>LSE Latin America and Caribbean Centre</i>, and <i>The California Aggie</i>. I have been interviewed on TV stations such as <i>ABC 10</i>, <i>FOX 40</i>, <i>KCRA 3</i>, and <i>CBS 13</i> television news to discuss state and national politics as a political scientists. These interviews (and more) can be found on my <a href="https://www.youtube.com/@ProfessorIsaacHale">YouTube channel</a>. In addition, I have appeared on radio stations like <i>93.1 KFBK</i> and <i> KQED </i> as well as podcasts like <i>Communication Matters</i> to discuss my research and current events. 
-
+<br><br>
 
 
 
@@ -117,6 +116,9 @@ You may find video of my television interviews on my <a href="https://www.youtub
 
 <ol>
 
+<li> <a href="https://youtu.be/K2h0h5vAGpw">Television interview on Trump indictment developments</a> - <i>Spectrum News</i>, Los Angeles (2023)
+
+
 <li> <a href="https://youtu.be/ugTjR73mJIQ">Television interview on May 2023 political news</a> - <i>LiveNOW</i>, Orlando (2023)
 
 
@@ -128,7 +130,7 @@ You may find video of my television interviews on my <a href="https://www.youtub
 <li> <a href="https://youtu.be/_NTMV1Jfl8M">Television interview on Dianne Feinstein's Senate absence</a> - <i>Spectrum News</i>, Los Angeles (2023)
 
 
-<li> <a href="https://youtu.be/5HY4p4Kt2LU">Television interview on the Trump Indictment</a> - <i>LiveNOW</i>, Orlando (2023)
+<li> <a href="https://youtu.be/5HY4p4Kt2LU">Television interview on the Trump indictment</a> - <i>LiveNOW</i>, Orlando (2023)
 
 
 <li> <a href="https://www.kcra.com/article/fact-checking-proposition-27-california-sports-betting/40645691">Fact-checking Proposition 27: Experts weigh in on California's in-person sports betting measure</a> - <i>KCRA 3</i>, Sacramento (2022)
