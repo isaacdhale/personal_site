@@ -22,7 +22,7 @@ title: "Isaac Hale's Research"
 
 <i><p style="text-align:center">Predicted Probability of NDP Vote by Minority Feeling Thermometer and Time Period, 95% confidence intervals</p></i>
 
-![](cjps_figure_3.PNG)
+![](cjps_figure_3.png)
 
 <p style="text-align:center"><b>Racial Attitudes and Vote Choice in National Canadian Elections<br> </p>
 
