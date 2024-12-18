@@ -25,6 +25,22 @@ Below you will find links containing syllabi, teaching evaluations, and (where a
 
 <ol>
 
+
+<li> Introduction to Comparative Politics (Fall 2024) 
+ <ul>
+ <li><a href="syllabi/oxy/POLS_120_F2024_final.pdf">Syllabus</a></li>
+ <li><a href="evals/Oxy/Hale_Eval_POLS120_F2024.pdf">College Course Evaluations</a></li>
+ <br style="line-height:0px;" />
+ </ul></li>
+
+<li> American Politics and Public Policy (Fall 2024) 
+ <ul>
+ <li><a href="syllabi/oxy/POLS_101_F2024_final.pdf">Syllabus</a></li>
+ <li><a href="evals/Oxy/Hale_Eval_POLS101_F2024.pdf">College Course Evaluations</a></li>
+
+ <br style="line-height:0px;" />
+ </ul></li>
+
 <li> California State Government and Politics (Spring 2024) 
  <ul>
  <li><a href="syllabi/oxy/POLS_201_S2024_v3.pdf">Syllabus</a></li>

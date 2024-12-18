@@ -12,7 +12,7 @@ rmarkdown::render_site()
 ####Useful Terminal commands
 
 # Set WD
-# cd "C:\Users\halei\My Drive\Website\Attempt_2\personal_site"
+# cd "C:\Users\halei\My Drive\Website\Attempt_2\personal_site
 
 # Add all files to staging areas
 # git add -A
