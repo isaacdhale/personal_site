@@ -25,6 +25,29 @@ Below you will find links containing syllabi, teaching evaluations, and (where a
 
 <ol>
 
+<li> The American Presidency (Spring 2025) 
+ <ul>
+  <li><a href="syllabi/oxy/POLS_302_S2025_v1.pdf">Syllabus</a></li>
+
+<br style="line-height:0px;" />
+ </ul></li>
+
+ <li> Research Methods in Politics and Public Policy (Spring 2025) 
+ <ul>
+ <li><a href="syllabi/oxy/POLS_300_S2025_v1.pdf">Syllabus</a></li>
+
+ <br style="line-height:0px;" />
+ </ul></li>
+
+ <li> Senior Comprehensive Seminar (Spring 2025) 
+ <ul>
+ <li><i>Team-taught course with Elizabeth Wiener and Alec Arellano</i></li>
+
+
+
+ <br style="line-height:0px;" />
+ </ul></li>
+
 
 <li> Introduction to Comparative Politics (Fall 2024) 
  <ul>
