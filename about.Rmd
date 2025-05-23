@@ -19,7 +19,7 @@ Los Angeles, CA 90041 <br>
 <a href="https://twitter.com/IsaacHale?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @IsaacHale</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-Copyright © 2017-2023 by Isaac Hale. Made with RStudio
+Copyright © 2017-2025 by Isaac Hale. Made with RStudio
 
 <br>
   

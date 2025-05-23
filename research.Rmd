@@ -20,6 +20,24 @@ title: "Isaac Hale's Research"
 <font size="+3"><b>Peer-Reviewed Publications</b></font>
 
 
+
+<i><p style="text-align:center"> Heterogeneous Treatment Effects of Interest Group Positions by Partisanship</p></i>
+
+![](interest_group_positions_margins_pid3.png)
+
+<p style="text-align:center"><b>Interest Group Influence on Preferences for New Voting Rights Legislation in a Polarized Environment<br> with <a href="https://calgara.github.io">Carlos Algara</a>, Assistant Professor of Political Science, Claremont Graduate University <br> <b>&</b> <a href="https://simmonsdj.com/">Daniel J. Simmons</a>, Assistant Professor of Political Science, University of Wisconsin-Eau Claire</b></p>
+
+<i><p style="text-align:center">\(\star\) <a href="https://doi.org/10.1080/00344893.2025.2488523"><b>Manuscript Published in the <i>Representation</i> (2025)</b></a> \(\star\) <a href="mailto:halei@oxy.edu">Manuscript Data Materials</a></p></i>
+
+</i>
+<br>
+<i>Abstract</i>: In an era of entrenched partisan polarisation, meaningful policy debates are increasingly absent from U.S. political discourse. Instead, citizens often simply support the policy views endorsed by co-partisan elites. However, interest groups, organisations motivated more by policy outcomes than electoral results, also shape the public's views about policy proposals and may have independent effects from those of partisan actors. We conduct a pre-registered survey experiment to explore how interest groups can influence public views about legislative proposals on voting rights. We use endorsement cues from the NAACP and the Heritage Foundation to assess how interest group positions affect the mass public's preferences towards the John Lewis Voting Rights Advancement Act. We find pro-voting rights reform cues increase support for the legislation, while anti-voting rights reform cues have no impact on support. These effects are concentrated among Democratic respondents.
+
+<br>
+<br>
+
+
+
 <i><p style="text-align:center">Relationship Between Racial Attitudes & Political Participation Index Across Samples</p></i>
 
 ![](fig5_participation_RR.png)
@@ -73,7 +91,7 @@ title: "Isaac Hale's Research"
 
 ![](GA_Figure_1.png)
 
-<p style="text-align:center"><b>Do Voters Balance Partisan Control of the Federal Government During the Partisan Era? Assessing the Case of the 2021 Georgia U.S. Senate Runoffs<br> with <a href="https://calgara.github.io">Carlos Algara</a>, Assistant Professor of Political Science, Claremont Graduate University  <br> &  <a href="https://corystruthers.weebly.com/">Cory Struthers</a>, Assistant Professor of Public Administration and Policy, University of Georgia</b></p>
+<p style="text-align:center"><b>Do Voters Balance Partisan Control of the Federal Government During the Partisan Era? Assessing the Case of the 2021 Georgia U.S. Senate Runoffs<br> with <a href="https://calgara.github.io">Carlos Algara</a>, Assistant Professor of Political Science, Claremont Graduate University  <br> &  <a href="https://www.corystruthers.com/">Cory Struthers</a>, Assistant Professor of Public Administration and Policy, University of Georgia</b></p>
 
 <i><p style="text-align:center">\(\star\) <a href="https://doi.org/10.1177%2F1532673X211070819"><b>Manuscript Published in <i>American Politics Research</i> (2022)</b></a> \(\star\)<a href="mailto:halei@oxy.edu">Manuscript Data Materials</a></p></i>
 

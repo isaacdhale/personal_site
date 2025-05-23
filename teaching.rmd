@@ -27,14 +27,16 @@ Below you will find links containing syllabi, teaching evaluations, and (where a
 
 <li> The American Presidency (Spring 2025) 
  <ul>
-  <li><a href="syllabi/oxy/POLS_302_S2025_v1.pdf">Syllabus</a></li>
+  <li><a href="syllabi/oxy/POLS_302_S2025_final.pdf">Syllabus</a></li>
+  <li><a href="evals/Oxy/Hale_Eval_POLS302_S2025.pdf">College Course Evaluations</a></li>
 
 <br style="line-height:0px;" />
  </ul></li>
 
  <li> Research Methods in Politics and Public Policy (Spring 2025) 
  <ul>
- <li><a href="syllabi/oxy/POLS_300_S2025_v1.pdf">Syllabus</a></li>
+ <li><a href="syllabi/oxy/POLS_300_S2025_final.pdf">Syllabus</a></li>
+  <li><a href="evals/Oxy/Hale_Eval_POLS300_S2025.pdf">College Course Evaluations</a></li>
 
  <br style="line-height:0px;" />
  </ul></li>
@@ -42,6 +44,7 @@ Below you will find links containing syllabi, teaching evaluations, and (where a
  <li> Senior Comprehensive Seminar (Spring 2025) 
  <ul>
  <li><i>Team-taught course with Elizabeth Wiener and Alec Arellano</i></li>
+ <li><a href="syllabi/oxy/POLS_495_S2025_final.pdf">Syllabus</a></li>
 
 
 
@@ -66,7 +69,7 @@ Below you will find links containing syllabi, teaching evaluations, and (where a
 
 <li> California State Government and Politics (Spring 2024) 
  <ul>
- <li><a href="syllabi/oxy/POLS_201_S2024_v3.pdf">Syllabus</a></li>
+ <li><a href="syllabi/oxy/POLS_201_S2024_final.pdf">Syllabus</a></li>
    <li><a href="evals/Oxy/Hale_Eval_POLS201_S2024.pdf">College Course Evaluations</a></li>
 
  <br style="line-height:0px;" />
@@ -75,7 +78,7 @@ Below you will find links containing syllabi, teaching evaluations, and (where a
  
 <li> American Politics and Public Policy (Spring 2024) 
  <ul>
- <li><a href="syllabi/oxy/POLS_101_S2024_v3.pdf">Syllabus</a></li>
+ <li><a href="syllabi/oxy/POLS_101_S2024_final.pdf">Syllabus</a></li>
   <li><a href="evals/Oxy/Hale_Eval_POLS101_S2024.pdf">College Course Evaluations</a></li>
 
 
