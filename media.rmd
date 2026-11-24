@@ -119,6 +119,14 @@ You may find video of my television interviews on my <a href="https://www.youtub
 <ol>
 
 
+<li> <a href="https://youtu.be/IBM6nw2aTWM?si=KTEkrGEZHekAI4Mu"> Unpacking the 2026 Midterm Results. </a> - <i>CBS News</i>, Los Angeles (2026)
+
+<li> <a href="https://youtu.be/5wzM1BpT6WM?si=HZA7C5E9u1McdR4A"> The Midterm Results in CA and LA. </a> - <i>CBS News</i>, Los Angeles (2026)
+
+<li> <a href="https://youtu.be/xBG9zqyDh_o?si=tW_SnO1TO8JIjt8F"> Political experts discuss the 2026 midterm elections as polls open Tuesday morning. </a> - <i>CBS News</i>, Los Angeles (2026)
+
+<li> <a href="https://youtu.be/RBQaxEGara4?si=sLJhHkGC8KYOc23O"> The 2026 California Ballot Propositions. </a> - <i>CBS News</i>, Los Angeles (2026)
+
 <li> <a href="https://youtu.be/mB80519i8LY?si=hOJWmZ7URVd0LqXK">  Political experts discuss Primary Election results, the day after. </a> - <i>CBS News</i>, Los Angeles (2026)
 
 <li> <a href="https://youtu.be/DhpevxK6i8s?si=V3LF_WRVuI9XTuG1"> Politics professor discusses some congressional races on the ballot. </a> - <i>CBS News</i>, Los Angeles (2026)
@@ -508,14 +516,18 @@ You may find video of my television interviews on my <a href="https://www.youtub
 
 <br>
 
-<li> <a href="https://natcompodcast.podbean.com/e/bonus-communicating-about-the-role-of-race-and-social-change-in-politics/">Communicating about the Role of Race and Social Change in Politics</a> - <i>Communication Matters</i>, the National Communication Association podcast (2020)
-   <br style="line-height:0px;" />
-   
-<iframe width="640" height="155" iframe title="BONUS: Communicating about the Role of Race and Social Change in Politics" src="https://www.podbean.com/media/player/fguap-eeb9c8?from=usersite&vjs=1&skin=1&fonts=Helvetica&auto=0&download=1" scrolling="no"></iframe></li>
+
+<li> <figure>
+    <figcaption><a href="http://website.archivenatcom.org/calendar/communicating-about-role-race-and-social-change-politics">Communicating about the Role of Race and Social Change in Politics</a> - <i>Communication Matters</i>, the National Communication Association podcast (2020)</figcaption>
+    <audio
+        controls
+        src="https://github.com/isaacdhale/personal_site/raw/master/audio/Communication_Matters.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
 <br>
-
-
-
 
 
 
